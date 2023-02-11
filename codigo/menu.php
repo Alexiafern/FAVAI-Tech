@@ -1,6 +1,6 @@
 <header>
-        <h1>Site Do Professor Julio</h1>
-        <p>Site desenvolvido para alunos do professor Julio. Entre com seu usuário e senha!</p>
+        <h1>FAVAI Tech</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas laboriosam blanditiis reiciendis </p>
     </header>
     <nav>
         <a href="Julio.php">Home</a>

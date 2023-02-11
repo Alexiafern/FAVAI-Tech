@@ -22,7 +22,7 @@
 
             <h2>A primeira versão</h2>
 
-            <p>A primeira tentativa de criar um mascote surgiu em 2007 e veio de um desenvolvedor chamado <a href="https://androidcommunity.com/dan-morrill-shows-us-the-android-mascot-that-almost-was-20130103/" target="_blank" class="externo">Dan Morrill</a>. Ele conta que abriu o <a href="https://inkscape.org/pt-br/" target="_blank" class="externo">Inkscape</a> (software livre para vetorização de imagens) e criou sua própria versão de robô. O objetivo era apenas personificar o sistema apenas para a a sua equipe, não existia nenhuma solicitação da empresa para a criação de um mascote.</p>
+            <p>A primeira tentativa é de criar um projeto que beneficie tanto empresas quanto individuos, o projeto é para auxiliar as pessoas de quais são as formas corretas de descartar seus lixos eletroeletrônicos, a ideia surgiu em Fevereiro de 2023, por meio de pesquisas e veio de um grupo de desenvolvedores chamados <a href="https://androidcommunity.com/dan-morrill-shows-us-the-android-mascot-that-almost-was-20130103/" target="_blank" class="externo">FAVAI</a>. O objetivo era apenas personificar o sistema para a sua equipe, não existia nenhuma empresa que fizesse isso na região.</p>
 
             <picture>
                 <source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">
@@ -37,7 +37,7 @@
 
             <picture>
                 <source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">
-                <img src="imagens/irina-blok.jpg" alt="Irina Block, criadora do Bugdroid">
+                <img src="../img/mascote.png" alt="Irina Block, criadora do Bugdroid" width="25px">
             </picture>
 
             <p>A ideia principal da Irina era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Bugdroid</strong>, o novo mascote do Android.</p>
@@ -50,11 +50,11 @@
 
             <p>Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre como descartar corretamente seus eletroeletrônicos.</p>
         </article>
-    </main>
-
+    </main>         
         <section id="conheca">
             <div class="container">
                 <div class="row">
+                <h1 style="text-align: center;">Programadores responsáveis pelo projeto: </h1>
                     <div class="col-md-12">
                         <img src="imgs/conheca.png" class="img-responsive titulo-conheca" alt="">
                     </div>
@@ -62,22 +62,22 @@
                         <div class="col-md-6">
                             <img src="imgs/juliana.jpg" data-aos="fade-up" class="center-block img-responsive pessoas-videos" alt="" data-toggle="modal" data-target="#video1">
                             <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
-                                <span>Juliana</span>
+                                <span>Alexia Fernanda</span>
                                 <div class="vvv">
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.valorizaobrasil.com.br" title="Facebook" target="_blank">
-                                        <img src="imgs/facebook.png" class="conheca-icones" alt="">
+                                    <a href="https://www.facebook.com/alexia.fernanda.31508/" title="Facebook" target="_blank">
+                                        <img src="../img/facebook.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://twitter.com/intent/tweet?text=%23EuValorizo&url=http://www.valorizaobrasil.com.br/index.html%23conheca" title="Twitter" target="_blank">
-                                        <img src="imgs/twitter.png" class="conheca-icones" alt="">
+                                    <a href="https://www.facebook.com/alexia.fernanda.31508/" title="Twitter" target="_blank">
+                                        <img src="../img/twitter.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.valorizaobrasil.com.br/index.html%23conheca" title="Linkedin" target="_blank">
-                                        <img src="imgs/linkedin.png" class="conheca-icones" alt="">
+                                    <a href="https://www.linkedin.com/in/alexia-fernanda-99976a1b5/" title="Linkedin" target="_blank">
+                                        <img src="../img/linkedin.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="whatsapp://send?text=%23EuValorizo http://www.valorizaobrasil.com.br/index.html%23conheca" title="Whatsapp" target="_blank">
-                                        <img src="imgs/whatsb.png" class="conheca-icones" alt="">
+                                    <a href="https://wa.me/+5543996915903" title="Whatsapp" target="_blank">
+                                        <img src="../img/whatsb.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="tg://share?url=http://www.valorizaobrasil.com.br/index.html%23conheca" title="Telegran" target="_blank">
-                                        <img src="imgs/telegran.png" class="conheca-icones" alt="">
+                                    <a href="https://t.me/yuna_rech" title="Telegran" target="_blank">
+                                        <img src="../img/telegran.png" class="conheca-icones" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -85,22 +85,19 @@
                         <div class="col-md-6">
                             <img src="imgs/irlan.jpg" data-aos="fade-up" class="center-block img-responsive pessoas-videos" alt="" data-toggle="modal" data-target="#video2">
                             <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
-                                <span>Irlan</span>
+                                <span>Ana Maria</span>
                                 <div class="vvv">
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.valorizaobrasil.com.br" title="Facebook" target="_blank">
-                                        <img src="imgs/facebook.png" class="conheca-icones" alt="">
+                                    <a href="https://www.facebook.com/profile.php?id=100023789444592&mibextid=ZbWKwL" title="Facebook" target="_blank">
+                                        <img src="../img/facebook.png" class="conheca-icones" alt="">
                                     </a>
                                     <a href="https://twitter.com/intent/tweet?text=%23EuValorizo&url=http://www.valorizaobrasil.com.br/index.html%23conheca" title="Twitter" target="_blank">
-                                        <img src="imgs/twitter.png" class="conheca-icones" alt="">
+                                        <img src="../img/twitter.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.valorizaobrasil.com.br/index.html%23conheca" title="Linkedin" target="_blank">
-                                        <img src="imgs/linkedin.png" class="conheca-icones" alt="">
+                                    <a href="https://wa.me/+5543998301254" title="Whatsapp" target="_blank">
+                                        <img src="../img/whatsb.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="whatsapp://send?text=%23EuValorizo http://www.valorizaobrasil.com.br/index.html%23conheca" title="Whatsapp" target="_blank">
-                                        <img src="imgs/whatsb.png" class="conheca-icones" alt="">
-                                    </a>
-                                    <a href="tg://share?url=http://www.valorizaobrasil.com.br/index.html%23conheca" title="Telegran" target="_blank">
-                                        <img src="imgs/telegran.png" class="conheca-icones" alt="">
+                                    <a href="https://t.me/anamaria347200" title="Telegran" target="_blank">
+                                        <img src="../img/telegran.png" class="conheca-icones" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -108,7 +105,7 @@
                         <div class="col-md-6">
                             <img src="imgs/miriam.jpg" data-aos="fade-up" class="center-block img-responsive pessoas-videos" alt="" data-toggle="modal" data-target="#video3">
                             <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
-                                <span>Miriam</span>
+                                <span>Vitoria</span>
                                 <div class="vvv">
                                     <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.valorizaobrasil.com.br" title="Facebook" target="_blank">
                                         <img src="imgs/facebook.png" class="conheca-icones" alt="">
@@ -131,28 +128,37 @@
                         <div class="col-md-6">
                             <img src="imgs/thaina.jpg" data-aos="fade-up" class="center-block img-responsive pessoas-videos" alt="" data-toggle="modal" data-target="#video4">
                             <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
-                                <span>Thainá</span>
+                                <span>Fernanda</span>
                                 <div class="vvv">
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.valorizaobrasil.com.br" title="Facebook" target="_blank">
-                                        <img src="imgs/facebook.png" class="conheca-icones" alt="">
+                                    <a href="https://www.facebook.com/minions.lek?mibextid=ZbWKwL" title="Facebook" target="_blank">
+                                        <img src="../img/facebook.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://twitter.com/intent/tweet?text=%23EuValorizo&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Twitter" target="_blank">
-                                        <img src="imgs/twitter.png" class="conheca-icones" alt="">
+                                    <a href="https://twitter.com/Fernand57743756?t=-qk7sN4IlfpZ6Ytmhyfu9w&s=09" title="Twitter" target="_blank">
+                                        <img src="../img/twitter.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Linkedin" target="_blank">
-                                        <img src="imgs/linkedin.png" class="conheca-icones" alt="">
+                                    <a href="https://wa.me/+5543998711250" title="Whatsapp" target="_blank">
+                                        <img src="../img/whatsb.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="whatsapp://send?text=%23EuValorizo http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Whatsapp" target="_blank">
-                                        <img src="imgs/whatsb.png" class="conheca-icones" alt="">
-                                    </a>
-                                    <a href="tg://share?url=http://www.valorizaobrasil.com.br/index.html%23EuValorizo" title="Telegran" target="_blank">
-                                        <img src="imgs/telegran.png" class="conheca-icones" alt="">
+                                    <a href="https://t.me/NanNannm" title="Telegran" target="_blank">
+                                        <img src="../img/telegran.png" class="conheca-icones" alt="">
                                     </a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12">
-                            <a href="https://www.youtube.com/playlist?list=PLMvPBUUyJHq0ZPmA255eL9gPYcPkM0uJA" target="_blank" class="federacoes">>> Quer ver essas histórias na íntegra? Clique aqui</a><br><br>
+                        <div class="col-md-6">
+                            <img src="imgs/thaina.jpg" data-aos="fade-up" class="center-block img-responsive pessoas-videos" alt="" data-toggle="modal" data-target="#video4">
+                            <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
+                                <span>Igor</span>
+                                <div class="vvv">
+                                    <a href="https://www.facebook.com/profile.php?id=100041219442533&mibextid=ZbWKwL
+43 9986-9102" title="Facebook" target="_blank">
+                                        <img src="../img/facebook.png" class="conheca-icones" alt="">
+                                    </a>
+                                    <a href="https://wa.me/+554399869102" title="Whatsapp" target="_blank">
+                                        <img src="../img/whatsb.png" class="conheca-icones" alt="">
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1157,4 +1163,3 @@
 
 </body>
 </html>
-

@@ -107,20 +107,11 @@
                             <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
                                 <span>Vitoria</span>
                                 <div class="vvv">
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.valorizaobrasil.com.br" title="Facebook" target="_blank">
-                                        <img src="imgs/facebook.png" class="conheca-icones" alt="">
+                                    <a href="https://www.facebook.com/vitoriagabriela.santos.37?mibextid=ZbWKwL" title="Facebook" target="_blank">
+                                        <img src="../img/facebook.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://twitter.com/intent/tweet?text=%23EuValorizo&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Twitter" target="_blank">
-                                        <img src="imgs/twitter.png" class="conheca-icones" alt="">
-                                    </a>
-                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Linkedin" target="_blank">
-                                        <img src="imgs/linkedin.png" class="conheca-icones" alt="">
-                                    </a>
-                                    <a href="whatsapp://send?text=%23EuValorizo http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Whatsapp" target="_blank">
-                                        <img src="imgs/whatsb.png" class="conheca-icones" alt="">
-                                    </a>
-                                    <a href="tg://share?url=http://www.valorizaobrasil.com.br/index.html%23EuValorizo" title="Telegran" target="_blank">
-                                        <img src="imgs/telegran.png" class="conheca-icones" alt="">
+                                    <a href="https://wa.me/+5543996892985" title="Whatsapp" target="_blank">
+                                        <img src="../img/whatsb.png" class="conheca-icones" alt="">
                                     </a>
                                 </div>
                             </div>

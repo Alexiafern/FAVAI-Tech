@@ -9,15 +9,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../estilo/style.css">
-    <title>Como surgiu o mascote do Android</title>
+    <title>FAVAI-Tech</title>
 </head>
 <body>
     
     <main>
         <article>
-            <h1>Informações dobre o Site</h1>
+            <h1>Informações sobre o Site</h1>
 
-            <p>Provavelmente você sabe que o sistema operacional <strong>Android</strong>, mantido pelo <strong>Google</strong> é um dos mais utilizados para dispositivos móveis em todo o mundo. Mas tavez você não saiba que o seu simpático mascote tem um nome e uma história muito curiosa? Pois acompanhe esse artigo para aprender muita coisa sobre esse robozinho.</p>
+            <p>O site foi desenvolvido pela <strong>FAVAI Tech </strong>, mantido pelo <strong>JCMD</strong> e é um site feito para informar sobre os riscos de descartar seus eletroeletrônicos sem responsabilidade, ademais sobre como, onde, e por que descartar nos lugares certos. Mas tavez você não saiba quais são as consequências de jogar seus eletroeletrônicos no lugar errado? Pois acompanhe esse artigo para aprender muita coisa sobre eletroeletrônicos e sobre o meio ambiente.</p>
 
             <h2>A primeira versão</h2>
 

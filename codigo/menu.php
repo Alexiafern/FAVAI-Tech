@@ -1,10 +1,10 @@
 <header>
         <h1>FAVAI Tech</h1>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas laboriosam blanditiis reiciendis </p>
+        <p>Eletroeletrônicos e suas consequÊncias para o meio ambiente </p>
     </header>
     <nav>
-        <a href="Julio.php">Home</a>
-        <a href="templates/index.html">Turma</a>
+        <a href="index.php">Home</a>
+        <a href="#">...</a>
         <a href="./sistema-cadastro-php-main/login.php">Cadastrar/Entrar</a>
         <a href="#">Informações</a>
     </nav>

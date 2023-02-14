@@ -42,7 +42,7 @@
                             <ul class="nav navbar-nav">                            
                             <li><a href="Ajuda.php">O que a FAVAI <br>faz por você?</a></li>
                             <li><a href="cadastrar.php">Cadastrar <br> Itens</a></li>
-                            <li><a href="concientizacao.php">Meio <br> Ambiente</a></li>
+                            <li><a href="conscientizacao.php">Meio <br> Ambiente</a></li>
                             <li><a href="locais.php">Onde descartar <br>Seus lixos</a></li>
                             <li><a href="problemas.php">Problemas ambientais</a></li>
                             

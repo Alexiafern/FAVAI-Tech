@@ -39,14 +39,14 @@
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                            <ul class="nav navbar-nav">
-                            <li><a href="#conheca">Histórias <br>reais</a></li>
-                            <li><a href="#numeros">Nossos <br>resultados</a></li>
-                            <li><a href="#oque">O que a FAVAI <br>faz por você?</a></li>
-                            <li><a href="#euvalorizo">#euValorizo</a></li>
-                            <li><a href="#transparencia">Transparência</a></li>
-                            <li><a href="#euapoio">Eu apoio</a></li>
-                            <li><a href="#contato">Contato</a></li>
+                            <ul class="nav navbar-nav">                            
+                            <li><a href="Ajuda.php">O que a FAVAI <br>faz por você?</a></li>
+                            <li><a href="cadastrar.php">Cadastrar <br> Itens</a></li>
+                            <li><a href="concientizacao.php">Meio <br> Ambiente</a></li>
+                            <li><a href="locais.php">Onde descartar <br>Seus lixos</a></li>
+                            <li><a href="problemas.php">Problemas ambientais</a></li>
+                            
+                            <li><a href="contato.php">Contato</a></li>
                             
                             </ul>
                         </div>

@@ -32,7 +32,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
-                            <a href="#topo" class="link-topo">
+                            <a href="index.php" class="link-topo">
                                 <img src="../img/favicon.ico" class="img-responsive logo" alt="">
                             </a>
                         </div>
@@ -42,7 +42,7 @@
                             <ul class="nav navbar-nav">                            
                             <li><a href="Ajuda.php">O que a FAVAI <br>faz por você?</a></li>
                             <li><a href="cadastrar.php">Cadastrar <br> Itens</a></li>
-                            <li><a href="conscientizacao.php">Meio <br> Ambiente</a></li>
+                            <li><a href="meio_ambiente.php">Meio <br> Ambiente</a></li>
                             <li><a href="locais.php">Onde descartar <br>Seus lixos</a></li>
                             <li><a href="problemas.php">Problemas ambientais</a></li>
                             
@@ -52,10 +52,7 @@
                         </div>
                       </div>
                     </div>
-                    <br><br><br><br>
-                    <div class="col-md-12" id="topo">
-                        <img src="../img/natureza,jpg.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
-                    </div>
+                    
                   </nav>
                </div>
            </div>

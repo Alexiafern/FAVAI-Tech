@@ -14,8 +14,15 @@
 </head>
 <body>
     
+    
     <main>
         <article>
+            <br>
+                    <div class="col-md-12" id="topo">
+                        <img src="../img/natureza,jpg.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
+                        <br>
+                    </div>
+            
             <h1>Informações sobre o Site</h1>
 
             <p>O site foi desenvolvido pela <strong>FAVAI Tech </strong>, mantido pelo <strong>JCMD</strong> e é um site feito para informar sobre os riscos de descartar seus eletroeletrônicos sem responsabilidade, ademais sobre como, onde, e por que descartar nos lugares certos. Mas tavez você não saiba quais são as consequências de jogar seus eletroeletrônicos no lugar errado? Pois acompanhe esse artigo para aprender muita coisa sobre eletroeletrônicos e sobre o meio ambiente.</p>
@@ -37,7 +44,7 @@
 
             <picture>
                 <source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">
-                <img src="../img/mascote.png" alt="Primeiro mascote do FAVAI-Tech " width="25px">
+                <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px">
             </picture>
 
             <p>A ideia principal de <strong>Alexia Fernanda</strong>(Alexia foi a primeira a ter a ideia do mascote) era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Nome do mascote</strong>, o novo mascote do FAVAI-Tech.</p>
@@ -182,7 +189,7 @@
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-3 col-sm-3">
-                        <img src="../img/mascote.png" class="empresario" alt="">
+                        <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" class="empresario" alt="">
                     </div>
                 </div>
             </div>

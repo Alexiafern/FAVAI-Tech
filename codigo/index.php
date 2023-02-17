@@ -25,7 +25,7 @@
             
             <h1>Informações sobre o Site</h1>
 
-            <p>O site foi desenvolvido pela <strong>FAVAI Tech </strong>, mantido pelo <strong>JCMD</strong> e é um site feito para informar sobre os riscos de descartar seus eletroeletrônicos sem responsabilidade, ademais sobre como, onde, e por que descartar nos lugares certos. Mas tavez você não saiba quais são as consequências de jogar seus eletroeletrônicos no lugar errado? Pois acompanhe esse artigo para aprender muita coisa sobre eletroeletrônicos e sobre o meio ambiente.</p>
+            <p>O site foi desenvolvido pela <strong>FAVAI Tech </strong>, mantido pelo <strong>JCMS</strong> e é um site feito para informar sobre os riscos de descartar seus eletroeletrônicos sem responsabilidade, ademais sobre como, onde, e por que descartar nos lugares certos. Mas tavez você não saiba quais são as consequências de jogar seus eletroeletrônicos no lugar errado? Pois acompanhe esse artigo para aprender muita coisa sobre eletroeletrônicos e sobre o meio ambiente.</p>
 
             <h2>A primeira versão</h2>
 
@@ -236,7 +236,7 @@
                     </div>
                     <div class="col-md-12 texto-transparencia">
                         <p>
-                                O JCMD e o FAVAI-Tech passam por constantes auditorias internas e externas, estando
+                                O JCMS e o FAVAI-Tech passam por constantes auditorias internas e externas, estando
                                 sujeitos ao crivo do Tribunal de Contas da União (TCU) e da Controladoria-Geral da
                                 União (CGU), mesmo sendo instituições privadas. A transparência também é
                                 assegurada com a atuação contínua de órgãos como o Conselho Fiscal, integrado por
@@ -261,10 +261,10 @@
                     <div class="col-md-12">
                         <div class="col-md-6">
                                 <p class="contato-texto text-center">
-                                    Parceria de FAVAI-Tech e JCMD
+                                    Parceria de FAVAI-Tech e JCMS
                                 </p>
                                 <p class="contato-texto text-center">FAVAI-Tech</p>
-                                <p class="contato-texto text-center">JCMD</p>
+                                <p class="contato-texto text-center">JCMS</p>
                         </div>
                        <div class="col-md-6">
                             <p class="contato-texto text-center">
@@ -294,7 +294,7 @@
                        </div>
                     </div>
                     <div class="col-md-12">
-                        <p class="text-center direitos">© FAVAI-Tech & JCMD | 2023. Todos os direitos reservados.</p>
+                        <p class="text-center direitos">© FAVAI-Tech & JCMS | 2023. Todos os direitos reservados.</p>
                     </div>
                     <div class="col-md-12">
                         <p class="pull-right voltar-topo"><a href="" onclick="topFunction()" id="myBtn">Voltar ao topo</a></p>

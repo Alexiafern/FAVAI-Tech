@@ -34,7 +34,7 @@
                 <h2>Programadores e donos do FAVAI-Tech</h2>
 
             <picture>
-                <source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">
+                <!--<source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">-->
                 <img src="imagens/dan-droids.png" alt="participantes do FAVAI-Tech">
             </picture>
 

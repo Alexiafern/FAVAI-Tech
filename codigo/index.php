@@ -43,15 +43,13 @@
             <p>A ideia de ter um mascote foi amadurecendo e a missão foi passada para uma das programadoras do projeto. A programadora <strong>Fernanda Miranda</strong>, também funcionária do FAVAI-Tech, ficou com a missão de representar o pequeno robô de uma maneira mais agradável.</p>
 
             <picture>
-                <source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">
+                <!--<source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">-->
                 <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px">
             </picture>
 
             <p>A ideia principal de <strong>Alexia Fernanda</strong>(Alexia foi a primeira a ter a ideia do mascote) era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Nome do mascote</strong>, o novo mascote do FAVAI-Tech.</p>
 
-            <img src="imagens/bugdroid.png" class="pequena" alt="Bugdroid">
-
-            <p>A principal inspiração para os traços do novo <strong>Bugdroid</strong> veio daqueles bonequinhos que ilustram portas de banheiro para indicar o gênero de cada porta. Conta a lenda que a artista estava criando em sua mesa no escritório do <strong>Google</strong> e olhou para o lado dos banheiros e a identificação foi imediata: simples, limpo, objetivo.</p>
+            <p>A principal inspiração para os traços do <strong>Frog</strong> veio daqueles bonequinhos que ilustram portas de banheiro para indicar o gênero de cada porta. Conta a lenda que a artista estava criando em sua mesa no escritório do <strong>Google</strong> e olhou para o lado dos banheiros e a identificação foi imediata: simples, limpo, objetivo.</p>
 
             <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3OfJ2KIRjy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
@@ -208,21 +206,21 @@
                                     <img src="../img/facebook.png" class="valorizo-icones" alt="">
                                 </a>
                                 <a href="https://twitter.com/intent/tweet?text=%23EuValorizo&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Twitter" target="_blank">
-                                    <img src="imgs/twitter.png" class="valorizo-icones" alt="">
+                                    <img src="../img/twitter.png" class="valorizo-icones" alt="">
                                 </a>
                                 <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Linkedin" target="_blank">
-                                    <img src="imgs/linkedin.png" class="valorizo-icones" alt="">
+                                    <img src="../img/linkedin.png" class="valorizo-icones" alt="">
                                 </a>
                                 <a href="whatsapp://send?text=%23EuValorizo http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Whatsapp" target="_blank">
-                                    <img src="imgs/whatsb.png" class="valorizo-icones" alt="">
+                                    <img src="../img/whatsb.png" class="valorizo-icones" alt="">
                                 </a>
                                 <a href="tg://share?url=http://www.valorizaobrasil.com.br/index.html%23EuValorizo" title="Telegran" target="_blank">
-                                    <img src="imgs/telegran.png" class="valorizo-icones" alt="">
+                                    <img src="../img/telegran.png" class="valorizo-icones" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-4">
-                            <img src="imgs/mulher.png" class="mulher" alt="">
+                            <img src="../img/araras_natureza.jpg" class="mulher" alt="">
                         </div>
                     </div>
                 </div>
@@ -307,82 +305,6 @@
         <!-- Bootstrap JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script src="dist/aos.js"></script>
-    <script>
-        AOS.init({
-            duration: 1200,
-        });
-
-        $(document).ready(function(e){
-            $.getJSON( "topicos-estados.json", function( data ) {
-                //EVENTO PARA DAR STOP NO VIDEO AO FECHAR O MODAL
-                $("g").mouseover(function(e){
-                    if(typeof $(this).attr("initials") !== "undefined"){
-                        $("#sesc").html("");
-                        $("#senac").html("");
-
-                        $("#sesc-mobile").html("");
-                        $("#senac-mobile").html("");
-
-                        $("#sesc").append("<h3>Sesc</h3>");
-                        $("#senac").append("<h3>Senac</h3>");
-
-                        $("#sesc-mobile").append("<h3>Sesc</h3>");
-                        $("#senac-mobile").append("<h3>Senac</h3>");
-
-                        let estado = $(this).attr("initials");
-
-                        $.getJSON( "dicionario-estados.json", function( data ) {
-                            $(".modal-title").html(data[estado]);
-                        });
-
-                        data[estado]['SESC'].forEach(function(topico){
-                            $("#sesc").append("<p class='dados'>" + topico + "</p>");
-                            $("#sesc-mobile").append("<p class='dados'>" + topico + "</p>");
-                        });
-
-                        data[estado]['SENAC'].forEach(function(topico){
-                            $("#senac").append("<p class='dados'>" + topico + "</p>");
-                            $("#senac-mobile").append("<p class='dados'>" + topico + "</p>");
-                        });
-                        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-                            setTimeout(function(){ $('#mapa').modal('show'); }, 100);
-                        }
-                    }
-                });
-
-                $("g").mouseout(function(e){
-                    let html = "<h3>Sesc Brasil</h3>\n" +
-                        "                                <p class='dados'>6,5 milhões de pessoas com cartão Sesc</p>\n" +
-                        "                                <p class='dados'>Presente em 2.200 municípios</p>\n" +
-                        "                                <p class='dados'>591 unidades fixas e 151 unidades móveis</p>\n" +
-                        "                                <p class='dados'>1,5 milhão de inscrições em Educação</p>\n" +
-                        "                                <p class='dados'>2 milhões de inscrições em Saúde</p>\n" +
-                        "                                <p class='dados'>19 milhões de pessoas alcançadas em ações de Cultura</p>\n" +
-                        "                                <p class='dados'>1,4 milhão de beneficiados (por mês) no Mesa Brasil</p>\n" +
-                        "                                <p class='dados'>1,7 milhão de inscrições em Desenvolvimento Físico Esportivo (Práticas Esportivas)</p>\n" +
-                        "                                <p class='dados'>26 milhões de lanches e 23 milhões de refeições subsidiadas</p>";
-
-                    $("#sesc").html(html);
-
-                    html = "<h3>Senac Brasil</h3>\n" +
-                        "                                <p class='dados'>2,17 milhões de atendimentos</p>\n" +
-                        "                                <p class='dados'>Presentes em 1.808 municípios</p>\n" +
-                        "                                <p class='dados'>576 unidades escolares e 85 unidades móveis</p>\n" +
-                        "                                <p class='dados'>1,29 milhão de matrículas totais</p>\n" +
-                        "                                <p class='dados'>358 mil matrículas gratuitas</p>\n" +
-                        "                                <p class='dados'>878 mil participantes em ações extensivas(*)</p>\n" +
-                        "                                <p class='dados'>930 cursos presenciais e a distância</p>";
-
-                    $("#senac").html(html);
-                });
-            });
-            //EVENTO PARA DAR STOP NO VIDEO AO FECHAR O MODAL
-            $(document).delegate(".modal", "hidden.bs.modal", function() {
-                $("#"+$(this).attr("id")+" iframe").attr("src", $("#"+$(this).attr("id")+" iframe").attr("src"))
-            });
-
-        })
-    </script>
     <script>
         window.onclick = function(event) {
                 var target = event.target;

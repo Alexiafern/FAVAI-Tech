@@ -55,7 +55,7 @@
 
             <span class="img-container"><img src="../img/inicio_meio_ambiente.png" alt=""></span>
 
-            <p>Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre como descartar corretamente seus eletroeletrônicos.</p>
+                <p>Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o meio ambiente.</p>
         </article>
     </main>
     

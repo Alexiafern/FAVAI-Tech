@@ -11,15 +11,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="../estilo/estilo2.css">
+    <style>
+        .img-container {
+          text-align: center;
+          display: block;
+        }
+        </style>
+        
 </head>
 <body>
     <main>
         <article>
             <br>
             <div class="col-md-12" id="topo">
-                <img src="../img/inicio_meio_ambiente.png" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
-                <br>
-            </div>
+                        <img src="../img/descarte_e-lixo.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="" width="25px">
+                        <br>
+                    </div>
             <h1>O que é o E-lixo?</h1>
 
             <p>De acordo com a diretiva da Comunidade Europeia, e-lixo é todo “Equipamento elétrico ou eletrônico que gera resíduos, incluindo todos os seus componentes, subcomponentes e materiais utilizados no momento do descarte”, ou seja, todo equipamento elétrico ou eletrônico que por algum motivo esteja em desuso, pode ser considerado lixo eletrônico.</p>
@@ -30,7 +37,7 @@
 
             <p>Em 2007, um estudo da Universidade das Nações Unidas estimava que a quantidade de lixo eletrônico no mundo passava de 40 milhões de toneladas ao ano. Esse aumento está intimamente ligado ao desenvolvimento de novas tecnologias, como TV’s LED, telefones celulares mais modernos, computadores mais rápidos e leves, etc., fazendo com que os equipamentos obsoletos não sejam mais utilizados. Outros fatores também contribuem para o consumo, como o aumento populacional, aumento do poder econômico das famílias, informatização da sociedade, obsolescência programada, etc. Mesmo sendo um dado antigo, ele é útil para nos fazer refletir sobre o assunto, pois certamente essa quantidade de lixo eletrônico no mundo é maior que a apresentada neste texto.</p>
 
-            <img src="../img/e-lixo.jpg" alt="">
+            <span class="img-container"><img src="../img/e-lixo.jpg" alt=""></span>
 
             <h2>Nosso propósito é o que faz a diferença</h2>
 
@@ -46,7 +53,7 @@
 
             <p>Um exemplo de reciclagem eficiente é o alumínio, que ao ser reciclado economiza mais de 90% de energia caso tivesse que ser extraído da natureza para ser produzido. Isso faz com que haja a redução de duas vezes o seu peso reciclado na emissão de CO2, não gerando 1,3 vezes o seu peso reciclado de resíduo de bauxita e 0,011 vezes seu peso em SO2.</p>
 
-            <img src="../img/descarte_e-lixo.webp" alt="">
+            <span class="img-container"><img src="../img/inicio_meio_ambiente.png" alt=""></span>
 
             <p>Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre como descartar corretamente seus eletroeletrônicos.</p>
         </article>

@@ -11,6 +11,12 @@
     <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../estilo/estilo2.css">
     <title>FAVAI-Tech</title>
+    <style>
+        .img-container {
+          text-align: center;
+          display: block;
+        }
+        </style>
 </head>
 <body>
     
@@ -35,7 +41,7 @@
 
             <picture>
                 <!--<source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">-->
-                <img src="imagens/dan-droids.png" alt="participantes do FAVAI-Tech">
+                <span class="img-container"><img src="imagens/dan-droids.png" alt="participantes do FAVAI-Tech"></span> 
             </picture>
 
             <h2>Surge um novo mascote</h2>
@@ -270,21 +276,24 @@
                                 SIGA A FAVAI-Tech NAS REDES SOCIAIS:
                             </p>
                             <div class="contato-sociais">
-                                <a href="https://www.facebook.com/Sistema.gtrhbz/" target="_blank">
+                                <!-- Tem que fazer um face aindaaaaaaaaaaaaa!!!!!!!!!!!!!!!!
+                                    <a href="https://www.facebook.com/Sistema.gtrhbz/" target="_blank">
                                     <img src="imgs/facebook.png" class="contato-icones" alt="">
+                                </a>-->
+                                <a href="https://www.instagram.com/favai_tech/" target="_blank">
+                                    <img src="../img/instagram.png" class="contato-icones" alt="">
                                 </a>
-                                <a href="https://www.instagram.com/sistemasbhdb/" target="_blank">
-                                    <img src="imgs/instagram.png" class="contato-icones" alt="">
-                                </a>
-                                <a href="https://twitter.com/sistemarfhdfthd" target="_blank">
+                                <!-- Tem que fazer uma contaaaaaaaaaaaa!!!!!!!!!!!!!!!!
+                                    <a href="https://twitter.com/sistemarfhdfthd" target="_blank">
                                     <img src="imgs/twitter.png" class="contato-icones" alt="">
+                                </a>-->
+                                <a href="https://www.youtube.com/@favaitech" target="_blank">
+                                    <img src="../img/youtube.png" class="contato-icones" alt="">
                                 </a>
-                                <a href="https://www.youtube.com/yrjhrtxsj" target="_blank">
-                                    <img src="imgs/youtube.png" class="contato-icones" alt="">
-                                </a>
+                                <!-- Fazer uma conta
                                 <a href="https://www.linkedin.com/company/sistemahyrs/" target="_blank">
                                     <img src="imgs/linkedin.png" class="contato-icones" alt="">
-                                </a>
+                                </a>-->
                             </div>
                             <p class="text-center contato-final">
                                 Entre em contato conosco pelo e-mail <br>

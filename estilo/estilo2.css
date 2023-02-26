@@ -100,7 +100,8 @@ main a:hover{
     color: var(--cor4);
 }
 main img{
-    width: 70%;
+    width: 60%;
+    text-align: center;
 }
 main img.pequena{
     max-width: 350px;

@@ -44,12 +44,13 @@
 
             <picture>
                 <!--<source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">-->
-                <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px">
+                <div class="img-container"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px"></div>
             </picture>
 
             <p>A ideia principal de <strong>Alexia Fernanda</strong>(Alexia foi a primeira a ter a ideia do mascote) era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Nome do mascote</strong>, o novo mascote do FAVAI-Tech.</p>
 
-            <p>A principal inspiração para os traços do <strong>Frog</strong> veio daqueles bonequinhos que ilustram portas de banheiro para indicar o gênero de cada porta. Conta a lenda que a artista estava criando em sua mesa no escritório do <strong>Google</strong> e olhou para o lado dos banheiros e a identificação foi imediata: simples, limpo, objetivo.</p>
+            <p>A principal inspiração para os traços do <strong>Frog</strong> vieram  de animais que ajudam a natureza. Os anfíbios são considerados excelentes indicadores ambientais, pois são altamente sensíveis a qualidade do meio ambiente, como a qualidade da água e do ar. A pele dos anfíbios é fina e rica em vasos sanguíneos, e é por ela que os anfíbios interagem com o meio.
+            </p>
 
             <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3OfJ2KIRjy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

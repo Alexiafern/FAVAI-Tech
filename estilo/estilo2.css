@@ -245,7 +245,7 @@ html, body {
     display: table-cell;
     vertical-align: middle;
     height: 120px;
-    transition: .3s;
+    transition: .5s;
 }
 
 .navbar-nav li a:hover{

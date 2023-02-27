@@ -42,24 +42,24 @@
                             <ul class="nav navbar-nav"> 
                                 <!--Mudar ajuda.php para favai.php-->                           
                             <li>
-                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="25px">-----<br>O que a FAVAI <br>faz por você?</a>
+                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>O que a FAVAI <br>faz por você?</a>
                             </li>
                             <li>
-                                <a href="cadastrar.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="25px">-----<br>Cadastrar <br> Itens</a>
+                                <a href="cadastrar.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Cadastrar <br> Itens</a>
                             </li>
                             <li>
-                                <a href="meio_ambiente.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="25px">-----<br>Meio <br> Ambiente</a>
+                                <a href="meio_ambiente.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Meio <br> Ambiente</a>
                             </li>
                             <li>
-                                <a href="locais.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="25px">-----<br>Onde descartar <br>Seus lixos</a>
+                                <a href="locais.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Onde descartar <br>Seus lixos</a>
                             </li>
                             <!--Mudar problemas.php para problemas_ambientais.php--> 
                             <li>
-                                <a href="problemas.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="25px">-----<br>Problemas <br> ambientais</a>
+                                <a href="problemas.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
                             </li>
                             
                             <li>
-                                <a href="contato.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="25px">-----<br><br> Contato</a>
+                                <a href="contato.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br><br> Contato</a>
                             </li>
                             
                             </ul>

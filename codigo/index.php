@@ -79,7 +79,7 @@
                                     <a href="https://www.facebook.com/alexia.fernanda.31508/" title="Facebook" target="_blank">
                                         <img src="../img/facebook.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://www.facebook.com/alexia.fernanda.31508/" title="Twitter" target="_blank">
+                                    <a href="https://twitter.com/alexia_a_melhor?t=2CkbBDsGIQH9a6xEmui9yg&s=09" title="Twitter" target="_blank">
                                         <img src="../img/twitter.png" class="conheca-icones" alt="">
                                     </a>
                                     <a href="https://www.linkedin.com/in/alexia-fernanda-99976a1b5/" title="Linkedin" target="_blank">

@@ -42,10 +42,7 @@
                             <ul class="nav navbar-nav"> 
                                 <!--Mudar ajuda.php para favai.php-->                           
                             <li>
-                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>O que a FAVAI <br>faz por você?</a>
-                            </li>
-                            <li>
-                                <a href="cadastrar.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Cadastrar <br> Itens</a>
+                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seu Lixo?</a>
                             </li>
                             <li>
                                 <a href="meio_ambiente.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Meio <br> Ambiente</a>
@@ -55,7 +52,7 @@
                             </li>
                             <!--Mudar problemas.php para problemas_ambientais.php--> 
                             <li>
-                                <a href="problemas.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
+                                <a href="problemas_ambientais.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
                             </li>
                             
                             <li>

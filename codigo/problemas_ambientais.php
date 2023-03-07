@@ -17,12 +17,12 @@
           display: block;
         }
         .mein{
-            background-color: #c5ebd6;
+            background-color: #83e1ad;
             padding: 10px;
             border-radius: 10px;
             box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.212);
             list-style-position: inside;
-            columns: 1;
+            columns: 2;
         }
         </style>
         
@@ -32,47 +32,46 @@
         <article>
             <br>
             <div class="col-md-12" id="topo">
-                        <img src="../img/reciclagem_do_e-lixo.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="" width="25px">
+                        <img src="../img/reciclagem_de_eletronicos.jpg" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="" width="25px">
                         <br>
                     </div>
-            <h1>Como Descartar Corretamente O Lixo Eletrônico Da Sua Empresa?</h1>
+            <h1>Você sabe qual é o impacto de tudo isso?</h1>
 
-            <p>Em pleno 2023, é muito improvável encontrar uma empresa que não tenha lixo eletrônico, também conhecidos como Resíduos de Equipamentos Elétricos e Eletrônicos (REEE) a serem descartados, desde celulares antigos e impressoras que não funcionam mais a até computadores ultrapassados toda empresa em algum momento irá ter de lidar com isso.</p>
-            <span class="img-container"><a href="problemas.php"><img src="../img/impactos.webp" alt=""></a></span>
-            
-            <p>E sabemos que muitas vezes o descarte é adiado por simplesmente não saber e/ou achar muito complicado realizá-lo, o que não é verdade. Isso porque, por todo o estado, existem diversos pontos para descarte de lixo eletrônico e a FAVAI-Tech é um deles!</p>
-
-            <p>Portanto este tipo de lixo não deve ser jogado no lixo comum, você pode participar sendo um multiplicador da informação e do conhecimento, ajudando para que o e-lixo seja encaminhado para reciclagem na FAVAI-Tech.</p>
-
-            <h2>Mas o que pode ser considerado lixo eletrônico?</h2>
-
-            <p><strong>Grandes equipamentos:</strong> geladeiras, freezers, máquinas de lavar, ar condicionado, microondas, TVs, etc.</p>
-
-            <p><strong>Pequenos equipamentos e eletroportáteis:</strong> câmeras digitais, torradeiras, batedeiras, aspiradores de pó, ventiladores, secadores de cabelo, ferramentas elétricas, calculadoras, etc.</p>
-
-            <p><strong>Equipamentos de informática e telefonia:</strong> CPUs, tablets, notebooks, celulares, impressoras, monitores e entre outros.</p>
-
-            <p>Aparelhos que estão presentes nos mais diversos segmentos, desde fábricas e indústrias, até comércios e escritórios.</p>
-            <h2>E quais são as vantagens de realizar o descarte correto do lixo eletrônico? </h2>
-            <p>Os benefícios são inúmeros!</p>
-            <p>Principalmente para a natureza, confira abaixo alguns deles: </p>
+            <p>Alguns dos componentes encontrados no lixo eletrônico podem causar uma série de problemas ao ser humano. Conforme a Secretaria do Meio Ambiente do Estado de São Paulo, algumas das causas relacionadas ao tipo de elemento são:</p>
             <div class="mein">
                 <ul>
-                    <p><strong>– Redução de lixo nos aterros sanitários</strong></p>
-                    <p>Segundo a ONU, somente no Brasil são mais de 1,5 milhão de toneladas de resíduos eletrônicos descartadas anualmente!</p>
-                    <p><strong>– Reutilização de metais</strong></p>
-                    <p>Através da logística reversa é possível reutilizar os metais que estão presentes nesses materiais e reciclá-los!</p>
-                    <p><strong>– Proteção de dados</strong></p>
-                    <p>Com o descarte incorreto você corre o risco de ter os seus dados roubados e compartilhados por terceiros.</p>
-                    <p><strong>– Impulso à economia</strong></p>
-                    <p>Ainda através da logística reversa é possível e de forma sustentável movimentar a economia ao reutilizar materiais que iriam para o lixo.</p>
-                    <p><strong>– Conservação solo e da água</strong></p>
-                    <p>Ao descartar o lixo eletrônico da sua empresa de modo inadequado o mesmo poderá liberar substâncias tóxicas no solo e na água.</p>
+                <li>Mercúrio – altamente tóxico, com concentrações entre 3 g e 30 g podem ser fatais ao homem; é de fácil absorção por via cutânea e pulmonar; tem efeito cumulativo; provoca lesões no cérebro; tem ação teratogênica (malformação de fetos durante a gravidez).</li>
+                <li>Cádmio – acumula-se nos rins, fígado, pulmões, pâncreas, testículos e coração; causa intoxicação crônica; provoca descalcificação óssea, lesões nos rins e afeta os pulmões; tem efeito teratogênico e cancerígeno.</li>
+                <li>Cobre – causa intoxicações; afeta o fígado.</li>
+                <li>Níquel – tem efeito cancerígeno.</li>
+                <li>Bário – tem efeito vasoconstritor; eleva a pressão arterial e age no sistema nervoso central; causa problemas cardíacos.</li>
+                <li>Cromo – acumula-se nos pulmões, pele, músculo e tecido adiposo; pode causar anemia, afeta o fígado e os rins; favorece a ocorrência de câncer pulmonar.</li>
+                <li>Prata – tem efeito cumulativo; 10 g de nitrato de prata são letais ao homem.</li>
+                <li>Zinco – entra na cadeia alimentar afetando principalmente os peixes e as algas.</li>
                 </ul>
             </div>
             <br>
-            <span class="img-container"><img src="../img/a_natureza_agradece.webp" alt=""></span>
-            <p>Esperamos que esse post possa ter te ajudado, mas caso ainda tenha dúvidas sobre o descarte de lixo eletrônico, <a href="https://wa.me/+5543996915903">entre em contato conosco</a>! A FAVAI-Tech está aqui para te ajudar.</p>
+
+            <p>Estes metais caso dispostos em aterros não licenciados e controlados, podem contaminar o solo e atingir o lençol freático, causando grande impacto ao meio ambiente e ao ser humano (caso esta água seja usada para a irrigação, consumo humano e para a criação de animais). Podem até chegar a contaminar algum manancial e aquífero</p>
+
+            <p>Portanto este tipo de lixo não deve ser jogado no lixo comum, você pode participar sendo um multiplicador da informação e do conhecimento, ajudando para que o e-lixo seja encaminhado para reciclagem na FAVAI-Tech.</p>
+
+            <h2>Mas como separar o e-Lixo?</h2>
+            <p>O primeiro passo é separar os aparelhos, não precisa desmontar, é só separar.
+            Celulares em um canto, monitores em outro.</p>
+            <span class="img-container"><img src="../img/reciclar_e_olhar_para_futuro.png" alt=""></span>
+            <p>
+                O primeiro passo é separar os aparelhos, não precisa desmontar, é só separar.
+                Celulares em um canto, monitores em outro.
+            </p>
+            <p>* Lembrando que pilhas e lâmpadas não devem ser descartadas junto com o restante do lixo eletrônico. </p>
+            <h2>Depois de separar o lixo eletrônico, o que eu faço?</h2>
+
+            <p>
+                É só entrar em contato com a FAVAI-Tech!
+            </p>
+            <p><a href="https://wa.me/+5543996915903">Clique aqui para falar com um de nossos especialistas!</a></p>
+            
         </article>
     </main>
     <section id="contato">

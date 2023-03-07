@@ -79,7 +79,7 @@
                                     <a href="https://www.facebook.com/alexia.fernanda.31508/" title="Facebook" target="_blank">
                                         <img src="../img/facebook.png" class="conheca-icones" alt="">
                                     </a>
-                                    <a href="https://www.facebook.com/alexia.fernanda.31508/" title="Twitter" target="_blank">
+                                    <a href="https://twitter.com/alexia_a_melhor?t=2CkbBDsGIQH9a6xEmui9yg&s=09" title="Twitter" target="_blank">
                                         <img src="../img/twitter.png" class="conheca-icones" alt="">
                                     </a>
                                     <a href="https://www.linkedin.com/in/alexia-fernanda-99976a1b5/" title="Linkedin" target="_blank">
@@ -209,21 +209,16 @@
                                 Poste nas suas redes sociais com a hashtag <strong>#euValorizo</strong> e faça parte da nossa campanha.
                             </p>
                             <div class="valorizo-sociais">
-                                <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.valorizaobrasil.com.br" title="Facebook" target="_blank">
+                                <!--<a href="#" title="Facebook" target="_blank">
                                     <img src="../img/facebook.png" class="valorizo-icones" alt="">
-                                </a>
-                                <a href="https://twitter.com/intent/tweet?text=%23EuValorizo&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Twitter" target="_blank">
+                                </a>-->
+                                <!--
+                                <a href="#" title="Twitter" target="_blank">
                                     <img src="../img/twitter.png" class="valorizo-icones" alt="">
-                                </a>
-                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Linkedin" target="_blank">
+                                </a>-->
+                                <!--<a href="#" title="Linkedin" target="_blank">
                                     <img src="../img/linkedin.png" class="valorizo-icones" alt="">
-                                </a>
-                                <a href="whatsapp://send?text=%23EuValorizo http://www.valorizaobrasil.com.br/index.html%23euvalorizo" title="Whatsapp" target="_blank">
-                                    <img src="../img/whatsb.png" class="valorizo-icones" alt="">
-                                </a>
-                                <a href="tg://share?url=http://www.valorizaobrasil.com.br/index.html%23EuValorizo" title="Telegran" target="_blank">
-                                    <img src="../img/telegran.png" class="valorizo-icones" alt="">
-                                </a>
+                                </a>-->
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-4">

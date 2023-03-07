@@ -171,7 +171,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="imgs/oque.png" class="img-responsive titulo-oque" alt="">
+                        <img src="../img/lata_de_lixo.png" class="img-responsive titulo-oque" alt="">
                     </div>
                     <div class="col-md-9 col-sm-12 col-xs-12">
                         <p class="oque-text">
@@ -182,15 +182,15 @@
                     </div>
                     <div class="col-md-9 col-sm-9 col-xs-9 topicos">
                         <div class="col-md-6">
-                           <img src="imgs/camaras.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modalcamaras">
-                           <img src="imgs/economia.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modaleconomia">
-                           <img src="imgs/juridico.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modaljuridico">
-                           <img src="imgs/institucionais.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modalinstitucionais">
+                           <img src="../img/metais.jpg" class="img-topicos" alt="" data-toggle="modal" data-target="#modalcamaras">
+                           <img src="../img/plastico.jpg" class="img-topicos" alt="" data-toggle="modal" data-target="#modaleconomia">
+                           <img src="../img/nao_reciclavel.jpg" class="img-topicos" alt="" data-toggle="modal" data-target="#modaleconomia">
+                           
                         </div>
                         <div class="col-md-6">
-                            <img src="imgs/sindicais.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modalsindicais">
-                            <img src="imgs/representacao.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modalrepresentacao">
-                            <img src="imgs/turismo.png" class="img-topicos" alt="" data-toggle="modal" data-target="#modalturismo">
+                            <img src="../img/organico.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modaljuridico">
+                           <img src="../img/papel.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modalinstitucionais">
+                           <img src="../img/vidro.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modalinstitucionais">
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-3 col-sm-3">

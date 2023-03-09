@@ -45,7 +45,8 @@
                                 <a href="Descarte_de_lixo.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seu Lixo?</a>
                             </li>
                             <li>
-                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seu E-Lixo?</a>
+                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seus Lixos</a>
+
                             </li>
                             <li>
                                 <a href="meio_ambiente.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Meio <br> Ambiente</a>
@@ -55,7 +56,7 @@
                             </li>
                             <!--Mudar problemas.php para problemas_ambientais.php--> 
                             <li>
-                                <a href="problemas_ambientais.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
+                                <a href="problemas.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
                             </li>
                             
                             <li>

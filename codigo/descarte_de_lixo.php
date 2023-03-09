@@ -57,15 +57,26 @@
                 <ul>
                     <li>
                         A reciclagem de uma única lata de alumínio economiza energia suficiente para manter uma TV ligada durante três horas.
+                    </li>
+                    <li>
                         Cerca de 100 mil pessoas no Brasil vivem exclusivamente de coletar latas de alumínio e recebem em média três salários mínimos mensais, segundo a Associação Brasileira do Alumínio.
                     </li>
-                    Uma tonelada de papel reciclado economiza 10mil litros de água e evita o corte de 17 árvores adultas.
+                    <li>
+                        Uma tonelada de papel reciclado economiza 10mil litros de água e evita o corte de 17 árvores adultas.
+                    </li>
+                   <li>
                     Cada 100 toneladas de plástico reciclado economizam 1 tonelada de petróleo.
+                   </li>
+                   <li>
                     Um quilo de vidro quebrado faz 1kg de vidro novo e pode ser infinitamente reciclado.
-                    O lacre da latinha não vale mais e não deve ser vendido separadamente. As empresas reciclam a lata com ou sem o lacre. Isso porque o anel é pequeno e pode se perder durante o transporte.
-                    Para produzir 1 tonelada de papel é preciso 100 mil litros de água e 5 mil KW de energia. Para produzir a mesma quantidade de papel reciclado, são usados apenas 2 mil litros de água e 50% da energia.
-                    Cada 100 toneladas de plástico economizam uma tonelada de petróleo.
-                    O vidro pode ser infinitamente reciclado.
+                   </li>
+                    <li>
+                        O lacre da latinha não vale mais e não deve ser vendido separadamente. As empresas reciclam a lata com ou sem o lacre. Isso porque o anel é pequeno e pode se perder durante o transporte.
+                    </li>
+                    <li>
+                        Para produzir 1 tonelada de papel é preciso 100 mil litros de água e 5 mil KW de energia. Para produzir a mesma quantidade de papel reciclado, são usados apenas 2 mil litros de água e 50% da energia.
+                    </li>
+                  
                 </ul>
             </div>
             <br>

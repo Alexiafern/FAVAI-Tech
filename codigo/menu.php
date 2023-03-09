@@ -45,7 +45,7 @@
                                 <a href="Descarte_de_lixo.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seu Lixo?</a>
                             </li>
                             <li>
-                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seus Lixos</a>
+                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>E-Lixos</a>
 
                             </li>
                             <li>

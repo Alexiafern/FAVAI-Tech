@@ -32,42 +32,40 @@
         <article>
             <br>
             <div class="col-md-12" id="topo">
-                        <img src="../img/reciclagem_do_e-lixo.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="" width="25px">
+                        <img src="../img/lixos.png" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="" width="25px">
                         <br>
                     </div>
-            <h1>Como Descartar Corretamente O Lixo Eletrônico Da Sua Empresa?</h1>
+            <h1>Como Descartar Corretamente O Lixo Da Sua Casa?</h1>
 
-            <p>Em pleno 2023, é muito improvável encontrar uma empresa que não tenha lixo eletrônico, também conhecidos como Resíduos de Equipamentos Elétricos e Eletrônicos (REEE) a serem descartados, desde celulares antigos e impressoras que não funcionam mais a até computadores ultrapassados toda empresa em algum momento irá ter de lidar com isso.</p>
-            <span class="img-container"><a href="problemas.php"><img src="../img/impactos.webp" alt=""></a></span>
+            <p>Separação de lixo é um tema essencial para o desenvolvimento de qualquer sociedade. Isso porque saber como separar o lixo corretamente é o primeiro passo para a destinação, a disposição e o tratamento (inclui reciclagem, incineração, entre outros) adequados do lixo.</p>
+            <span class="img-container"><a href="problemas.php"><img src="../img/coleta_reciclavel.png" alt=""></a></span>
             
-            <p>E sabemos que muitas vezes o descarte é adiado por simplesmente não saber e/ou achar muito complicado realizá-lo, o que não é verdade. Isso porque, por todo o estado, existem diversos pontos para descarte de lixo eletrônico e a FAVAI-Tech é um deles!</p>
+            <p>Poucos minutos de dedicação para a separação de lixo doméstico, hospitalar ou outro tipo de lixo podem evitar danos significativos às pessoas e ao ambiente; economizar energia, matéria-prima, água e espaço de aterros e lixões; e ainda gerar renda.</p>
 
-            <p>Portanto este tipo de lixo não deve ser jogado no lixo comum, você pode participar sendo um multiplicador da informação e do conhecimento, ajudando para que o e-lixo seja encaminhado para reciclagem na FAVAI-Tech.</p>
+            <p>Para separar os resíduos de maneira adequada é preciso ficar atento aos tipos de materiais que serão descartados. Basicamente, os resíduos e rejeitos são divididos em orgânicos, recicláveis não perigosos, não recicláveis não perigosos e perigosos.</p>
 
-            <h2>Mas o que pode ser considerado lixo eletrônico?</h2>
+            <h2>Como separar o lixo doméstico?</h2>
 
-            <p><strong>Grandes equipamentos:</strong> geladeiras, freezers, máquinas de lavar, ar condicionado, microondas, TVs, etc.</p>
+            <p><strong>Não misture recicláveis com orgânicos :</strong> sobras de alimentos, cascas de frutas e legumes. Coloque plásticos, vidros, metais e papéis em sacos separados.</p>
 
-            <p><strong>Pequenos equipamentos e eletroportáteis:</strong> câmeras digitais, torradeiras, batedeiras, aspiradores de pó, ventiladores, secadores de cabelo, ferramentas elétricas, calculadoras, etc.</p>
+            <p><strong>Lave as embalagens :</strong> Lave as embalagens do tipo longa vida, latas, garrafas e frascos de vidro e plástico. Seque-os antes de depositar nos coletores.</p>
 
-            <p><strong>Equipamentos de informática e telefonia:</strong> CPUs, tablets, notebooks, celulares, impressoras, monitores e entre outros.</p>
+            <p><strong>Separe os vidros quebrados:</strong> Embrulhe vidros quebrados e outros materiais cortantes em papel grosso (do tipo jornal) ou colocados em uma caixa para evitar acidentes. Garrafas e frascos não devem ser misturados com os vidros planos.</p>
 
-            <p>Aparelhos que estão presentes nos mais diversos segmentos, desde fábricas e indústrias, até comércios e escritórios.</p>
-            <h2>E quais são as vantagens de realizar o descarte correto do lixo eletrônico? </h2>
-            <p>Os benefícios são inúmeros!</p>
-            <p>Principalmente para a natureza, confira abaixo alguns deles: </p>
+            <h2>Curiosidades : </h2>
             <div class="mein">
                 <ul>
-                    <p><strong>– Redução de lixo nos aterros sanitários</strong></p>
-                    <p>Segundo a ONU, somente no Brasil são mais de 1,5 milhão de toneladas de resíduos eletrônicos descartadas anualmente!</p>
-                    <p><strong>– Reutilização de metais</strong></p>
-                    <p>Através da logística reversa é possível reutilizar os metais que estão presentes nesses materiais e reciclá-los!</p>
-                    <p><strong>– Proteção de dados</strong></p>
-                    <p>Com o descarte incorreto você corre o risco de ter os seus dados roubados e compartilhados por terceiros.</p>
-                    <p><strong>– Impulso à economia</strong></p>
-                    <p>Ainda através da logística reversa é possível e de forma sustentável movimentar a economia ao reutilizar materiais que iriam para o lixo.</p>
-                    <p><strong>– Conservação solo e da água</strong></p>
-                    <p>Ao descartar o lixo eletrônico da sua empresa de modo inadequado o mesmo poderá liberar substâncias tóxicas no solo e na água.</p>
+                    <li>
+                        A reciclagem de uma única lata de alumínio economiza energia suficiente para manter uma TV ligada durante três horas.
+                        Cerca de 100 mil pessoas no Brasil vivem exclusivamente de coletar latas de alumínio e recebem em média três salários mínimos mensais, segundo a Associação Brasileira do Alumínio.
+                    </li>
+                    Uma tonelada de papel reciclado economiza 10mil litros de água e evita o corte de 17 árvores adultas.
+                    Cada 100 toneladas de plástico reciclado economizam 1 tonelada de petróleo.
+                    Um quilo de vidro quebrado faz 1kg de vidro novo e pode ser infinitamente reciclado.
+                    O lacre da latinha não vale mais e não deve ser vendido separadamente. As empresas reciclam a lata com ou sem o lacre. Isso porque o anel é pequeno e pode se perder durante o transporte.
+                    Para produzir 1 tonelada de papel é preciso 100 mil litros de água e 5 mil KW de energia. Para produzir a mesma quantidade de papel reciclado, são usados apenas 2 mil litros de água e 50% da energia.
+                    Cada 100 toneladas de plástico economizam uma tonelada de petróleo.
+                    O vidro pode ser infinitamente reciclado.
                 </ul>
             </div>
             <br>

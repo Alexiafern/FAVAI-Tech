@@ -117,10 +117,7 @@
                                 <a href="https://www.youtube.com/@favaitech" target="_blank">
                                     <img src="../img/youtube.png" class="contato-icones" alt="">
                                 </a>
-                                <!-- Fazer uma conta
-                                <a href="https://www.linkedin.com/company/sistemahyrs/" target="_blank">
-                                    <img src="imgs/linkedin.png" class="contato-icones" alt="">
-                                </a>-->
+                                
                             </div>
                             <p class="text-center contato-final">
                                 Entre em contato conosco pelo e-mail <br>

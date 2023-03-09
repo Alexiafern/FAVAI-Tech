@@ -80,8 +80,8 @@
                 </ul>
             </div>
             <br>
-            <span class="img-container"><img src="../img/a_natureza_agradece.webp" alt=""></span>
-            <p>Esperamos que esse post possa ter te ajudado, mas caso ainda tenha dúvidas sobre o descarte de lixo eletrônico, <a href="https://wa.me/+5543996915903">entre em contato conosco</a>! A FAVAI-Tech está aqui para te ajudar.</p>
+            <span class="img-container"><img src="../img/ambiente.jpg" alt=""></span>
+            <p> <a href="https://wa.me/+5543996915903">Entre em contato conosco</a>! A FAVAI-Tech está aqui para te ajudar.</p>
         </article>
     </main>
     <section id="contato">

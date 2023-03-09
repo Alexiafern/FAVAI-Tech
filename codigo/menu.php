@@ -42,7 +42,11 @@
                             <ul class="nav navbar-nav"> 
                                 <!--Mudar ajuda.php para favai.php-->                           
                             <li>
+                                <a href="Descarte_de_lixo.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seu Lixo?</a>
+                            </li>
+                            <li>
                                 <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seus Lixos</a>
+
                             </li>
                             <li>
                                 <a href="meio_ambiente.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Meio <br> Ambiente</a>

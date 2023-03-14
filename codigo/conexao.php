@@ -1,8 +1,8 @@
 <?php
     $servidor ="localhost";
-    $usuario ="igor";
-    $senha="1234";
-    $banco="formulario";
+    $usuario ="alexia";
+    $senha="14075277976";
+    $banco="tabela_receber";
 
     $mysqli = new mysqli($servidor, $usuario, $senha, $banco);
 

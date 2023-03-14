@@ -1,5 +1,6 @@
 <?php
- include("conexao.php");
+ /*include("conexao.php");
+ include("menu.php");
     if(isset($_POST['bt_login'])){
         $login = $_POST['bt_login'];
         $senha = $_POST['bt_senha'];
@@ -7,7 +8,7 @@
         $senha_nova = password_hash(($senha), PASSWORD_DEFAULT);
         $mysqli ->query("INSERT INTO tabela_receber (nome,arquivo_caminho)values('$login','$senha_nova')") or die($mysqli->error);
 
-        }
+        }*/
 ?>
 
 <!DOCTYPE html>
@@ -48,7 +49,7 @@
                             <div class="col-md-6 order-md-1">
                             <div class="col-12">
                             <div>
-                                <img src="fotos/maos.svg" alt=""class="img-fluid">
+                                <img src="../img/maos.svg" alt=""class="img-fluid">
                         </div>
                     </div>             
                 </div>

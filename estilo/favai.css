@@ -1,0 +1,13 @@
+#letras{
+    font-size: 22px;
+}
+
+body{
+    background-color: rgb(41, 221, 161);
+}
+#cartao{
+    background-color: rgb(163, 163, 163);
+}
+#corletra{
+    color: aliceblue;
+}

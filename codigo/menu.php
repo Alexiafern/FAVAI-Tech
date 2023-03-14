@@ -60,7 +60,7 @@
                             </li>
                             
                             <li>
-                                <a href="contato.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br><br> Contato</a>
+                                <a href="cadastro.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br><br> Contato</a>
                             </li>
                             
                             </ul>

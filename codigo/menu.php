@@ -59,6 +59,11 @@
                                 <a href="problemas_ambientais.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
                             </li>
                             
+                            
+                            <li>
+                                <a href="sobre.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Sobre  <br>Favai</a>
+                            </li>
+
                             <li>
                                 <a href="cadastrar.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br><br> Contato</a>
                             </li>

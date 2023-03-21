@@ -12,7 +12,7 @@
 
         $mover = move_uploaded_file($arquivo["tmp_name"],  $pasta);
 
-        $mysqli->query ("INSERT INTO favai_receber (nome, sinop, arquivo) VALUES ('$nome', '$sinopse', '$nome_foto')")or die ($mysqli->error) ;
+        $mysqli->query ("INSERT INTO filme_receber (nome, sinop, arquivo) VALUES ('$nome', '$sinopse', '$nome_foto')")or die ($mysqli->error) ;
 
         var_dump($mover);
 

@@ -12,7 +12,7 @@
 
         $mover = move_uploaded_file($arquivo["tmp_name"],  $pasta);
 
-        $mysqli->query ("INSERT INTO filme_receber (nome, sinop, arquivo) VALUES ('$nome', '$sinopse', '$nome_foto')")or die ($mysqli->error) ;
+        $mysqli->query ("INSERT INTO favai_receber (nome, sinop, arquivo) VALUES ('$nome', '$sinopse', '$nome_foto')")or die ($mysqli->error) ;
 
         var_dump($mover);
 
@@ -28,6 +28,14 @@
         <link rel="stylesheet" href="../estilo/estilo2.css">
 
         <title>Cadastrar</title>
+        <style>
+            body{
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
+                url("../img/fundo.avif");
+                background-size: cover;
+                background-color: var(--cor0);
+            }
+        </style>
     </head>
     <body>
         <div class="container">

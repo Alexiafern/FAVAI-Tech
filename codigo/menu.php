@@ -20,6 +20,34 @@
 
             gtag('config', 'UA-147081812-3');
         </script>
+        <style>
+        nav{
+            background-color: var(--cor1);
+            color: var(--cor5);
+            padding: 20px;
+            font-size: 18px;
+            text-align: center;
+        }
+        nav > a{
+            color: var(--cor5);
+            padding: 10px;
+            border: 15px;
+            border-radius: 15px;
+            text-decoration: none;
+            font-weight: bold;
+            transition-duration: .5s;
+        }
+        nav > a:hover{
+            background-color: var(--cor3);
+            color: var(--cor5);
+            text-decoration: none;
+        }
+        img{
+            display: block;
+            margin: auto;
+            text-align: center;
+        }
+        </style>
            <div class="container">
                <div class="col-md-12">
                 <nav class="navbar navbar-default navbar-fixed-top">
@@ -39,36 +67,30 @@
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                            <ul class="nav navbar-nav"> 
-                                <!--Mudar ajuda.php para favai.php-->                           
-                            <li>
-                                <a href="Descarte_de_lixo.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>Seu Lixo?</a>
-                            </li>
-                            <li>
-                                <a href="Ajuda.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Como Descartar <br>E-Lixos</a>
-
-                            </li>
-                            <li>
-                                <a href="meio_ambiente.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Meio <br> Ambiente</a>
-                            </li>
-                            <li>
-                                <a href="Construindo_e_evoluindo.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Construindo e <br>Evoluindo</a>
-                            </li>
-                            <!--Mudar problemas.php para problemas_ambientais.php--> 
-                            <li>
-                                <a href="problemas_ambientais.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Problemas <br> ambientais</a>
-                            </li>
+                            <nav>
+                                    <!--Mudar ajuda.php para favai.php-->
                             
+                                    <a href="Descarte_de_lixo.php">Como Descartar Seu Lixo?</a>
+                                
                             
-                            <li>
-                                <a href="sobre.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br>Sobre  <br>Favai</a>
-                            </li>
-
-                            <li>
-                                <a href="cadastrar.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br><br> Contato</a>
-                            </li>
+                                    <a href="Ajuda.php">Como Descartar E-Lixos</a>
+                                
                             
-                            </ul>
+                                    <a href="meio_ambiente.php">Meio Ambiente</a>
+                                
+                            
+                                    <a href="Construindo_e_evoluindo.php">Construindo e Evoluindo</a><br>
+                                    <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="" width="50px">
+                            
+                                    
+                                        <a href="problemas_ambientais.php">Problemas ambientais</a>
+                                        <a href="sobre.php">Sobre o Favai</a>
+                                        <a href="cadastrar.php"> Contato</a>
+                                    
+                                
+                                
+                                
+                            </nav>
                         </div>
                       </div>
                     </div>
@@ -76,5 +98,5 @@
                   </nav>
                </div>
            </div>
-           <br><br>
+           <br><br><br><br>
                    

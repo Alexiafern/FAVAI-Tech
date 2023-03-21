@@ -7,12 +7,13 @@
 }
 
 body {
-  background-image: url(../image/fundo.jpg);
+  background-image: url(../img/fundo.avif);
   background-size: cover;
   background-attachment: fixed;
   font-family: 'PT Sans', sans-serif;
   line-height: 100%;
 }
+
 
 img{
   width: 1000px;
@@ -60,7 +61,7 @@ a:hover {
 
 /* -------------- TOPO -------------- */
 .topo {
-  background: rgba(0, 0, 0, 0.85);
+  background: #54BAE3;
   position: fixed;
   z-index: 2;
   width: 100%;
@@ -89,46 +90,8 @@ a:hover {
   padding: 10px 0;
 }
 
-.topo-pesquisa{
-  width: 45%;
-  display: flex;
-  justify-content: center;
-}
-
-.conteudo-pesquisa{
-  width: 90%;
-  background-color: #fff;
-}
-
 fieldset {
   border: none;
-}
-
-.bar-pesquisa{
-  width: 90%;
-}
-
-.bar-pesquisa input[type="text"] {
-  font-family: 'Lato', sans-serif;
-  font-size: 1vmax;
-  color: #585858;
-  width: 100%;
-  height: 2vmax;
-  border: 1px solid #fff;
-  text-align: left;
-}
-
-.bar-pesquisa input:focus {
-  outline: 0;
-}
-
-.btn-pesquisar {
-  width: 5%;
-  background-color: #fff;
-}
-
-.btn-pesquisar button{
-  color: #585858;
 }
 
 button {
@@ -180,14 +143,14 @@ button {
   border: none;
   font-family: inherit;
   padding: 10px;
-  background-color: #c4004f;
+  background-color: #42b3e09d;
 }
 
 .sublogin-conteudo {
   display: none;
   position: absolute;
   width: 15%;
-  background-color: #c4004f;
+  background-color: #17a1a165;
   font-size: 1vmax;
   text-align: center;
   z-index: 1;

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width-device-width, initial-scale=1">
   <link rel="apple-touch-icon" sizes="180x180" href="../image/favicons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="../image/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../img/WhatsApp Image 2023-02-15 at 19.11.47.png">
   <link rel="icon" type="image/png" sizes="16x16" href="../image/favicons/favicon-16x16.png">
   <link rel="manifest" href="../image/favicons/site.webmanifest">
   <link rel="mask-icon" href="../image/favicons/safari-pinned-tab.svg" color="#5bbad5">
@@ -24,7 +24,7 @@
     <div class="topo-esquerdo conteudo-flex">
       <!-- início do logo -->
       <div class="topo-logo">
-        <img src="../image/favicons/senac-logo.jpg" alt="Imagem logotipo da filmov" title="Imagem logotipo da filmov">
+        <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Imagem do frog" title="Imagem do frog" width="20px">
       </div>
       <!-- fim do logo -->
     </div>
@@ -36,7 +36,7 @@
       <nav>
         <ul class="topo-menu conteudo-flex">
           <li><a href="../index.php">Início</a></li>
-          <li><a href="series.html">#</a></li>
+          <li><a href="ajuda.php">Como Descartar E-Lixos</a></li>
           <li><a href="filmes.html">#</a></li>
           <li><a href="novelas.html">#</a></li>
           <li><a href="categorias.html">#</a></li>
@@ -46,7 +46,7 @@
       </nav>
       <!-- fim do menu de navegação -->
 
-      <!-- início barra de pesquisa -->
+      <!-- início barra de pesquisa
       <div class="topo-pesquisa">
         <div class="conteudo-pesquisa">
           <form class="conteudo-flex" method="post">
@@ -61,7 +61,7 @@
         </form>
         </div>
       </div>
-      <!-- fim da barra de pesquisa -->
+       fim da barra de pesquisa -->
     </div>
     <!-- fim topo centro -->
 

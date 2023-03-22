@@ -70,14 +70,8 @@
                             <nav>
                                     <!--Mudar ajuda.php para favai.php-->
                             
-<<<<<<< HEAD
-                            <li>
-                                <a href="cadastro.php">-----<img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt=""width="35px">-----<br><br> Contato</a>
-                            </li>
-=======
+                            
                                     <a href="Descarte_de_lixo.php">Como Descartar Seu Lixo?</a>
-                                
->>>>>>> alexia
                             
                                     <a href="Ajuda.php">Como Descartar E-Lixos</a>
                                 

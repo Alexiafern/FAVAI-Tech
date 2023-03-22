@@ -53,7 +53,7 @@
 
             <p>Um exemplo de reciclagem eficiente é o alumínio, que ao ser reciclado economiza mais de 90% de energia caso tivesse que ser extraído da natureza para ser produzido. Isso faz com que haja a redução de duas vezes o seu peso reciclado na emissão de CO2, não gerando 1,3 vezes o seu peso reciclado de resíduo de bauxita e 0,011 vezes seu peso em SO2.</p>
 
-            <span class="img-container"><img src="../img/inicio_meio_ambiente.png" alt=""></span>
+            <span class="img-container"><img src="../img/ajudando_ambiente.png" alt=""></span>
 
                 <p>Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o meio ambiente.</p>
         </article>

@@ -24,12 +24,7 @@
             list-style-position: inside;
             columns: 2;
         }
-        iframe{
-            text-align: center;
-            display: block;
-        }
-        </style>
-        
+        </style>    
 </head>
 <body>
     <main>
@@ -76,9 +71,9 @@
             <div class="img-container"><img src="../img/carrinho_de_garrafa_pet.jpg" alt=""></div>
             <p>Assista ao vídeo do canal da Poly Gonçalves e veja 10 ideias de como fazer objetos recicláveis.</p> 
             <p>Confira os outros vídeos bem interessantes do canal da Poly Gonçalves.</p>
-
+            
             <iframe width="560" height="315" src="https://www.youtube.com/embed/nQB0uyVNE_k?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+        
 
             <p>
                 É só entrar em contato com a FAVAI-Tech!

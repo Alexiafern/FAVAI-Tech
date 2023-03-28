@@ -31,7 +31,7 @@
         <style>
             body{
                 background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
-                url("../img/fundo.avif");
+                url("../img/3sapo.jpg");
                 background-size: cover;
                 background-color: var(--cor0);
             }
@@ -40,7 +40,7 @@
     <body>
         <div class="container">
             <br>
-            <h1>Cadastrar</h1>
+            <h1>Cadastrar:</h1>
             <form action="" method= "post" enctype="multipart/form-data">
                 <div class="mb-3">
                 <label for="bt_nome" class="form-label">Nome:</label>

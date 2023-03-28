@@ -12,6 +12,12 @@
     <title>Document</title>
     <link rel="stylesheet" href="../estilo/estilo2.css">
     <style>
+        body{
+            background-image: url(../img/fundo_1.avif);
+            background-size: cover;
+            background-color: var(--cor0);
+            font-family: var(--fonte-padrao);
+        }
         .img-container {
           text-align: center;
           display: block;

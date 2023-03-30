@@ -40,28 +40,10 @@
           <li><a href="meio_ambiente.php">O que é o E-lixo?</a></li>
           <li><a href="Construindo_e_evoluindo.php">Construindo e evoluindo</a></li>
           <li><a href="problemas_ambientais.php">Problemas ambientais</a></li>
-          <li><a href="cadastrar.php"></a>cadastro</li>
+          <li><a href="cadastrar.php">cadastro</a></li>
           
         </ul>
       </nav>
-      <!-- fim do menu de navegação -->
-
-      <!-- início barra de pesquisa
-      <div class="topo-pesquisa">
-        <div class="conteudo-pesquisa">
-          <form class="conteudo-flex" method="post">
-          <fieldset class="bar-pesquisa">
-            <input type="text" placeholder="Pesquisar um filme ou série..." alt="Digite aqui um filme ou série para pesquisar">
-          </fieldset>
-          <fieldset class="btn-pesquisar conteudo-flex">
-            <button type="button" title="Pesquisar">
-              <span class="fas fa-search"></span>
-            </button>
-          </fieldset>
-        </form>
-        </div>
-      </div>
-       fim da barra de pesquisa -->
     </div>
     <!-- fim topo centro -->
 
@@ -70,11 +52,11 @@
       <!-- área de login -->
       <div class="sublogin">
         <div>
-          <button class="subloginbtn">Fazer Login<br>ou Assinar <span class="fa fa-caret-down"></span></button>
+          <button class="subloginbtn">Fazer cadastro <span class="fa fa-caret-down"></span></button>
         </div>
         <div class="sublogin-conteudo">
           <br>
-          <a href="cadastrar.php">Cadastro <span></span> 
+          <a href="cadastrar.php">cadastrar</a>
           <!--<button type="button" title="Entrar">Cadastrar</button></span></button>-->
         </div>
       </div>

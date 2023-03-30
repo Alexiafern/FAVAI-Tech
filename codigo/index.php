@@ -126,10 +126,10 @@
     <div class="site-map conteudo-flex">
       <div class="site-map-conteudo">
         <ul>
-          <li><a href="../index.html">Sobre nós</a></li>
+          <li><a href="sobre.php">Sobre nós</a></li>
           <li><a href="#">Carreiras</a></li>
           <li><a href="#">Perguntas frequentes</a></li>
-          <li><a href="#">Imprensa</a></li>
+          <li><a href="#">Empresa</a></li>
         </ul>
       </div>
       <div class="site-map-conteudo">
@@ -143,17 +143,16 @@
       <div class="site-map-conteudo">
         <ul>
           <li><a href="#">Conta</a></li>
-          <li><a href="contato.html">Contato</a></li>
+          <li><a href="#">Contato</a></li>
           <li><a href="#">Centro de Ajuda</a></li>
-          <li><a href="#">Teste de Velocidade</a></li>
         </ul>
       </div>
     </div>
     <div>
-      <img src="../image/favicons/senac-logo.jpg" alt="Imagem logotipo da Filmlexi" title="Imagem logotipo da Filmlexi">
+      <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Imagem logotipo do FAVAI-Tech" title="Imagem logotipo do FAVAI-Tech">
     </div>
     <div>
-      <p>2022 - Filmlexi S.A. by <a href="https://jonasmzsouza.github.io/">Alexia Fernanda</a></p>
+      <p>2023 - FAVAI-Tech F.T. by <a href="https://github.com/Alexiafern">Alexia Fernanda</a> e JCMS</p>
       <p>Fotografias sob licença gratuita - fonte: <a href="http://www.pexels.com" target="_blank">pexels.com</a></p>
     </div>
   </footer>

@@ -35,33 +35,15 @@
       <!-- início menu de navegação -->
       <nav>
         <ul class="topo-menu conteudo-flex">
-          <li><a href="../index.php">Início</a></li>
+          <li><a href="index.php">Início</a></li>
           <li><a href="ajuda.php">Como Descartar E-Lixos</a></li>
-          <li><a href="filmes.html">#</a></li>
-          <li><a href="novelas.html">#</a></li>
-          <li><a href="categorias.html">#</a></li>
-          <li><a href="../consultar.php"></a>#</li>
+          <li><a href="meio_ambiente.php">O que é o E-lixo?</a></li>
+          <li><a href="Construindo_e_evoluindo.php">Construindo e evoluindo</a></li>
+          <li><a href="problemas_ambientais.php">Problemas ambientais</a></li>
+          <li><a href="cadastrar.php">cadastro</a></li>
           
         </ul>
       </nav>
-      <!-- fim do menu de navegação -->
-
-      <!-- início barra de pesquisa
-      <div class="topo-pesquisa">
-        <div class="conteudo-pesquisa">
-          <form class="conteudo-flex" method="post">
-          <fieldset class="bar-pesquisa">
-            <input type="text" placeholder="Pesquisar um filme ou série..." alt="Digite aqui um filme ou série para pesquisar">
-          </fieldset>
-          <fieldset class="btn-pesquisar conteudo-flex">
-            <button type="button" title="Pesquisar">
-              <span class="fas fa-search"></span>
-            </button>
-          </fieldset>
-        </form>
-        </div>
-      </div>
-       fim da barra de pesquisa -->
     </div>
     <!-- fim topo centro -->
 
@@ -70,12 +52,12 @@
       <!-- área de login -->
       <div class="sublogin">
         <div>
-          <button class="subloginbtn">Fazer Login<br>ou Assinar <span class="fa fa-caret-down"></span></button>
+          <button class="subloginbtn">Fazer cadastro <span class="fa fa-caret-down"></span></button>
         </div>
         <div class="sublogin-conteudo">
-          <button type="button" title="Entrar">Entrar</span></button>
-          <p>ou</p>
-          <button type="button" title="Assinar">Assinar</span></button>
+          <br>
+          <a href="cadastrar.php">cadastrar</a>
+          <!--<button type="button" title="Entrar">Cadastrar</button></span></button>-->
         </div>
       </div>
       <!-- fim área de login -->
@@ -89,16 +71,17 @@
   <div class="conteudo-principal">
 
     <div class="primeiro-h1">
+      <br><br><br>
       <h1>Que tal visitar estas páginas?</h1>
     </div>
 
     <!-- início banner -->
     <div class="elementos conteudo-flex">
       <div class="banner">
-        <a href="Construindo_e_evoluindo.php"><img src="../img/araras_natureza.jpg" alt="modelo banner de série" title="modelo banner de série"></a>
+        <a href="Construindo_e_evoluindo.php"><img src="../img/cabecario.jpg" alt="modelo banner de série" title="modelo banner de série"></a>
       </div>
       <div class="banner">
-        <a href="meio_ambiente.php"><img src="../img/coleta_reciclavel.png" alt="modelo banner de série" title="modelo banner de série"></a>
+        <a href="meio_ambiente.php"><img src="../img/descarte_e-lixo.webp" alt="modelo banner de série" title="modelo banner de série"></a>
       </div>
     </div>
     <!-- fim banner -->
@@ -110,23 +93,28 @@
     <!-- início imagens séries -->
     <div class="elementos conteudo-flex">
       <div class="capa">
-        <a href="01-filme.html"><img src="../image/a_cinco_passos_de_voce.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
+        <a href="Ajuda.php"><img src="../img/reciclagem_do_e-lixo.webp" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
       </div>
       <div class="capa">
-        <a href="02-filme.html"><img src="../image/logo_ela7.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
+        <a href="Construindo_e_evoluindo.php"><img src="../img/cabecario.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
       </div>
       <div class="capa">
-        <a href="03-filme.html"><img src="../image/pequenos_espioes.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
+        <a href="problemas_ambientais.php"><img src="../img/reciclagem_de_eletronicos.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
+      </div>
+      
+      
+      <div class="capa">
+        <a href="meio_ambiente.php"><img src="../img/descarte_e-lixo.webp" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
       </div>
       <div class="capa">
-        <a href="04-filme.html"><img src="../image/mulan.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
+        <a href="sobre.php"><img src="../img/reciclar.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
       </div>
       <div class="capa">
-        <a href="05-filme.html"><img src="../image/percy_jackson.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
+        <a href="descarte_de_lixo.php"><img src="../img/lixos.png" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
       </div>
-      <div class="capa">
-        <a href="06-filme.html"><img src="../image/harry_potter.jpg" alt="imagem modelo capa de filme" title="imagem modelo capa de filme">
-      </div>
+      
+      
+      
     </div>
     <!-- fim imagens filmes -->
 

@@ -23,8 +23,6 @@
     padding: 0%;
 }
 body{
-    background-image: url(../img/fundo_verde.avif);
-    background-size: cover;
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 }

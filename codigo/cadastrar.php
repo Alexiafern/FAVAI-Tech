@@ -35,6 +35,15 @@
                 background-size: cover;
                 background-color: var(--cor0);
             }
+            p{
+                color: rgba(255, 255, 255, 0.719);
+            }
+            label{
+                color: rgba(255, 255, 255, 0.685);
+            }
+            .form-text{
+                color: white;
+            }
         </style>
     </head>
     <body>

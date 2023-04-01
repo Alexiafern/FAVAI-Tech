@@ -24,6 +24,12 @@
             text-align: center;
             
         }
+        div.box {
+            width: 150px;
+            display: inline-block;
+            text-align: center;
+            transform: scale(1.1);
+        }
         </style>
 </head>
 <body>
@@ -47,10 +53,26 @@
 
                 <h2>Programadores e donos do FAVAI-Tech</h2>
 
-            <picture>
-                <!--<source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">-->
-                <span class="img-container"><img src="imagens/dan-droids.png" alt="participantes do FAVAI-Tech"></span> 
-            </picture>
+                <div class="box">
+                    <img src="../img/alexia.jpeg"/>
+                    <span>Alexia Fernanda </span>
+                </div>
+                <div class="box">
+                    <img src="../img/ana.jpeg"/>
+                    <span> Ana Maria </span>
+                </div>
+                <div class="box">
+                    <img src="../img/vitoria.jpeg"/>
+                    <span> Vitoria </span>
+                </div>
+                <div class="box">
+                    <img src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg"/>
+                    <span> Fernanda </span>
+                </div>
+                <div class="box">
+                    <img src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg"/>
+                    <span> Igor </span>
+                </div>
 
             <h2>Surge um novo mascote</h2>
 

@@ -70,8 +70,8 @@
                             <nav>
                                     <!--Mudar ajuda.php para favai.php-->
                             
+                            
                                     <a href="Descarte_de_lixo.php">Como Descartar Seu Lixo?</a>
-                                
                             
                                     <a href="Ajuda.php">Como Descartar E-Lixos</a>
                                 

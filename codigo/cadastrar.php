@@ -31,16 +31,25 @@
         <style>
             body{
                 background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
-                url("../img/fundo.avif");
+                url("../img/3sapo.jpg");
                 background-size: cover;
                 background-color: var(--cor0);
+            }
+            p{
+                color: rgba(255, 255, 255, 0.719);
+            }
+            label{
+                color: rgba(255, 255, 255, 0.685);
+            }
+            .form-text{
+                color: white;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <br>
-            <h1>Cadastrar</h1>
+            <h1>Cadastrar:</h1>
             <form action="" method= "post" enctype="multipart/form-data">
                 <div class="mb-3">
                 <label for="bt_nome" class="form-label">Nome:</label>

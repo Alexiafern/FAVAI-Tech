@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(../img/fundo.avif);
+  background-image: url(../img/fundo_1.avif);
   background-size: cover;
   background-attachment: fixed;
   font-family: 'PT Sans', sans-serif;
@@ -40,6 +40,7 @@ ul {
 a:link, a:visited, a:active {
   text-decoration: none;
   color: #fff;
+  
 }
 
 a:hover {
@@ -61,11 +62,11 @@ a:hover {
 
 /* -------------- TOPO -------------- */
 .topo {
-  background: #54BAE3;
+  background: #499261d0;
   position: fixed;
   z-index: 2;
   width: 100%;
-  height: 100px;;
+  height: 155px;;
   min-width: 320px;
 }
 
@@ -125,17 +126,17 @@ button {
 /* -------------- LOGIN -------------- */
 .topo-direito{
   width: 15%;
-  height: 100px;
+  height: 150px;
 }
 
 .sublogin {
   width: 100%;
-  height: 100px;
+  height: 150px;
 }
 
 .subloginbtn{
   width: 100%;
-  height: 100px;
+  height: 150px;
 }
 
 .sublogin .subloginbtn {
@@ -143,12 +144,13 @@ button {
   border: none;
   font-family: inherit;
   padding: 10px;
-  background-color: #42b3e09d;
+  background-color: #499261d0;
 }
 
 .sublogin-conteudo {
   display: none;
   position: absolute;
+  height: 40px;
   width: 15%;
   background-color: #17a1a165;
   font-size: 1vmax;

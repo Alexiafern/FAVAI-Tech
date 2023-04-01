@@ -16,6 +16,14 @@
           text-align: center;
           display: block;
         }
+        .frog{
+            width: 500px;
+            margin-left: auto;
+            margin-right: auto; 
+            display: block;
+            text-align: center;
+            
+        }
         </style>
 </head>
 <body>
@@ -50,7 +58,7 @@
 
             <picture>
                 <!--<source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">-->
-                <div class="img-container"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px"></div>
+                <div class="frog"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px"></div>
             </picture>
 
             <p>A ideia principal de <strong>Alexia Fernanda</strong>(Alexia foi a primeira a ter a ideia do mascote) era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Nome do mascote</strong>, o novo mascote do FAVAI-Tech.</p>
@@ -235,7 +243,7 @@
                         <img src="imgs/transparencia.png" class="img-responsive titulo-transparencia" alt="">
                     </div>
                     <div class="col-md-12 texto-transparencia">
-                        <p>
+                        <p class="jcms">
                                 O JCMS e o FAVAI-Tech passam por constantes auditorias internas e externas, estando
                                 sujeitos ao crivo do Tribunal de Contas da União (TCU) e da Controladoria-Geral da
                                 União (CGU), mesmo sendo instituições privadas. A transparência também é
@@ -243,7 +251,10 @@
                                 membros do Governo Federal, das centrais sindicais e das auditorias, tanto em nível
                                 nacional como regional. Veja abaixo mais informações sobre as ações das entidades:
                         </p>
-                            Compartilhe:
+                        <p class="jcms">
+                            
+                                Compartilhe:
+                        </p>
                             <br>
                             <a href="https://wa.me/+5543996915903"><img src="../img/whatsb.png" alt=""> </a>
                             <a href="https://t.me/yuna_rech"><img src="../img/telegran.png" alt=""></a>

@@ -69,7 +69,7 @@
                     </div>
                 <div class="mb-3">
                     <label for="bt_nome" class="form-label">Informações sobre o produto:</label><br>
-                    <textarea name="sinop" id="" cols="160" rows="6" required></textarea>               
+                    <textarea name="sinop" id="" cols="137" rows="6" required></textarea>               
                     <div class="form-text">*inserir informações sobre o eletrônico</div>
                     <br>
                 </div>

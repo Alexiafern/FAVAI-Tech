@@ -161,7 +161,7 @@ footer a:hover{
 }
 /* mudanças bootstrap */
 .navbar-default {
-    background-color: /*#4E6591*/var(--cor1);
+    background-color: /*#4E6591*/#478D5F;
     border-color: transparent;
 }
 /* fim mudanças bootstrap */
@@ -209,7 +209,7 @@ html, body {
 }
 
 .menu{
-    background-color: /*#4E6591*/ var(--cor1);
+    background-color: /*#4E6591*/ #499261d0;
     height: 120px;
 }
 
@@ -516,9 +516,17 @@ html, body {
     width: 350px;
 }
 .oque-text{
+    background-color: #000000a9;
+    height: 90px;
+    width: 860px;
     font-family: mregular;
     font-size: 20px;
-    color: #59595b;
+    color: white;
+}
+.jcms{
+    background-color: #000000a9;
+    color: white;
+
 }
 .topicos{
     padding-left: 0;

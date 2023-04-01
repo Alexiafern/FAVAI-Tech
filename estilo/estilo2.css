@@ -713,7 +713,10 @@ html, body {
 /* euapoio */
 /*contato*/
 #contato{
-    background-color: #f5821f;
+    background: rgba(0, 0, 0, 0.85);
+    width: 100%;
+    min-width: 320px;
+    height: auto;
     padding: 50px 0;
 }
 .contato{

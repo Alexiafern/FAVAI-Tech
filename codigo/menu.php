@@ -22,7 +22,7 @@
         </script>
         <style>
         nav{
-            background-color: var(--cor1);
+            background-color: #4992610c;
             color: var(--cor5);
             padding: 20px;
             font-size: 18px;
@@ -87,9 +87,7 @@
                                         <a href="sobre.php">Sobre o Favai</a>
                                         <a href="cadastrar.php"> Contato</a>
                                     
-                                
-                                
-                                
+                                  
                             </nav>
                         </div>
                       </div>

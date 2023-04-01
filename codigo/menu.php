@@ -87,9 +87,7 @@
                                         <a href="sobre.php">Sobre o Favai</a>
                                         <a href="cadastrar.php"> Contato</a>
                                     
-                                
-                                
-                                
+                                  
                             </nav>
                         </div>
                       </div>

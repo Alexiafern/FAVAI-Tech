@@ -24,6 +24,9 @@
             list-style-position: inside;
             columns: 1;
         }
+        li{
+            font-size: 20px;
+        }
         </style>
         
 </head>
@@ -58,15 +61,15 @@
             <p>Principalmente para a natureza, confira abaixo alguns deles: </p>
             <div class="mein">
                 <ul>
-                    <p><strong>– Redução de lixo nos aterros sanitários</strong></p>
+                    <li><strong>– Redução de lixo nos aterros sanitários</strong></li>
                     <p>Segundo a ONU, somente no Brasil são mais de 1,5 milhão de toneladas de resíduos eletrônicos descartadas anualmente!</p>
-                    <p><strong>– Reutilização de metais</strong></p>
+                    <li><strong>– Reutilização de metais</strong></li>
                     <p>Através da logística reversa é possível reutilizar os metais que estão presentes nesses materiais e reciclá-los!</p>
-                    <p><strong>– Proteção de dados</strong></p>
+                    <li><strong>– Proteção de dados</strong></li>
                     <p>Com o descarte incorreto você corre o risco de ter os seus dados roubados e compartilhados por terceiros.</p>
-                    <p><strong>– Impulso à economia</strong></p>
+                    <li><strong>– Impulso à economia</strong></li>
                     <p>Ainda através da logística reversa é possível e de forma sustentável movimentar a economia ao reutilizar materiais que iriam para o lixo.</p>
-                    <p><strong>– Conservação solo e da água</strong></p>
+                    <li><strong>– Conservação solo e da água</strong></li>
                     <p>Ao descartar o lixo eletrônico da sua empresa de modo inadequado o mesmo poderá liberar substâncias tóxicas no solo e na água.</p>
                 </ul>
             </div>

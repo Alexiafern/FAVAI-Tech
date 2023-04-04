@@ -30,6 +30,12 @@
             text-align: center;
             transform: scale(1.1);
         }
+        .programadores{
+            color: white;
+            background-color: rgba(0, 0, 0, 0.486);
+            height: 100px;
+            padding: 20px;
+        }
         </style>
 </head>
 <body>
@@ -39,7 +45,7 @@
         <article>
             <br>
                     <div class="col-md-12" id="topo">
-                        <img src="../img/natureza,jpg.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
+                        <img src="../img/img_sobre.jpg" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
                         <br>
                     </div>
             
@@ -96,7 +102,7 @@
         <section id="conheca">
             <div class="container">
                 <div class="row">
-                <h1 style="text-align: center;">Programadores responsáveis pelo projeto: </h1>
+                <h1 class="programadores" style="text-align: center;">Programadores responsáveis pelo projeto: </h1>
                     <div class="col-md-12">
                         <img src="imgs/conheca.png" class="img-responsive titulo-conheca" alt="">
                     </div>
@@ -217,6 +223,7 @@
                            <img src="../img/nao_reciclavel.jpg" class="img-topicos" alt="" data-toggle="modal" data-target="#modaleconomia">
                            
                         </div>
+                        
                         <div class="col-md-6">
                             <img src="../img/organico.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modaljuridico">
                            <img src="../img/papel.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modalinstitucionais">

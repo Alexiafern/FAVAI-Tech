@@ -16,6 +16,26 @@
           text-align: center;
           display: block;
         }
+        .frog{
+            width: 500px;
+            margin-left: auto;
+            margin-right: auto; 
+            display: block;
+            text-align: center;
+            
+        }
+        div.box {
+            width: 150px;
+            display: inline-block;
+            text-align: center;
+            transform: scale(1.1);
+        }
+        .programadores{
+            color: white;
+            background-color: rgba(0, 0, 0, 0.486);
+            height: 100px;
+            padding: 20px;
+        }
         </style>
 </head>
 <body>
@@ -25,7 +45,7 @@
         <article>
             <br>
                     <div class="col-md-12" id="topo">
-                        <img src="../img/natureza,jpg.webp" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
+                        <img src="../img/img_sobre.jpg" class="center-block pessoas" data-aos="fade" data-aos-delay="300" alt="">
                         <br>
                     </div>
             
@@ -39,10 +59,26 @@
 
                 <h2>Programadores e donos do FAVAI-Tech</h2>
 
-            <picture>
-                <!--<source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">-->
-                <span class="img-container"><img src="imagens/dan-droids.png" alt="participantes do FAVAI-Tech"></span> 
-            </picture>
+                <div class="box">
+                    <img src="../img/alexia.jpeg"/>
+                    <span>Alexia Fernanda </span>
+                </div>
+                <div class="box">
+                    <img src="../img/ana.jpeg"/>
+                    <span> Ana Maria </span>
+                </div>
+                <div class="box">
+                    <img src="../img/vitoria.jpeg"/>
+                    <span> Vitoria </span>
+                </div>
+                <div class="box">
+                    <img src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg"/>
+                    <span> Fernanda </span>
+                </div>
+                <div class="box">
+                    <img src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg"/>
+                    <span> Igor </span>
+                </div>
 
             <h2>Surge um novo mascote</h2>
 
@@ -50,7 +86,7 @@
 
             <picture>
                 <!--<source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">-->
-                <div class="img-container"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px"></div>
+                <div class="frog"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Primeiro mascote do FAVAI-Tech " width="25px"></div>
             </picture>
 
             <p>A ideia principal de <strong>Alexia Fernanda</strong>(Alexia foi a primeira a ter a ideia do mascote) era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Nome do mascote</strong>, o novo mascote do FAVAI-Tech.</p>
@@ -66,7 +102,7 @@
         <section id="conheca">
             <div class="container">
                 <div class="row">
-                <h1 style="text-align: center;">Programadores responsáveis pelo projeto: </h1>
+                <h1 class="programadores" style="text-align: center;">Programadores responsáveis pelo projeto: </h1>
                     <div class="col-md-12">
                         <img src="imgs/conheca.png" class="img-responsive titulo-conheca" alt="">
                     </div>
@@ -187,6 +223,7 @@
                            <img src="../img/nao_reciclavel.jpg" class="img-topicos" alt="" data-toggle="modal" data-target="#modaleconomia">
                            
                         </div>
+                        
                         <div class="col-md-6">
                             <img src="../img/organico.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modaljuridico">
                            <img src="../img/papel.webp" class="img-topicos" alt="" data-toggle="modal" data-target="#modalinstitucionais">
@@ -235,7 +272,7 @@
                         <img src="imgs/transparencia.png" class="img-responsive titulo-transparencia" alt="">
                     </div>
                     <div class="col-md-12 texto-transparencia">
-                        <p>
+                        <p class="jcms">
                                 O JCMS e o FAVAI-Tech passam por constantes auditorias internas e externas, estando
                                 sujeitos ao crivo do Tribunal de Contas da União (TCU) e da Controladoria-Geral da
                                 União (CGU), mesmo sendo instituições privadas. A transparência também é
@@ -243,7 +280,10 @@
                                 membros do Governo Federal, das centrais sindicais e das auditorias, tanto em nível
                                 nacional como regional. Veja abaixo mais informações sobre as ações das entidades:
                         </p>
-                            Compartilhe:
+                        <p class="jcms">
+                            
+                                Compartilhe:
+                        </p>
                             <br>
                             <a href="https://wa.me/+5543996915903"><img src="../img/whatsb.png" alt=""> </a>
                             <a href="https://t.me/yuna_rech"><img src="../img/telegran.png" alt=""></a>

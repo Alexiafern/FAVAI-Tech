@@ -15,6 +15,13 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
   <link rel="stylesheet" href="../estilo/style.css">
 </head>
+  <style>
+    h1{
+      background-color: rgba(0, 0, 0, 0.473);
+      height: 50px;
+      padding: 15px;
+    }
+  </style>
 
 <body>
 
@@ -126,10 +133,10 @@
     <div class="site-map conteudo-flex">
       <div class="site-map-conteudo">
         <ul>
-          <li><a href="../index.html">Sobre nós</a></li>
+          <li><a href="sobre.php">Sobre nós</a></li>
           <li><a href="#">Carreiras</a></li>
           <li><a href="#">Perguntas frequentes</a></li>
-          <li><a href="#">Imprensa</a></li>
+          <li><a href="#">Empresa</a></li>
         </ul>
       </div>
       <div class="site-map-conteudo">
@@ -143,17 +150,16 @@
       <div class="site-map-conteudo">
         <ul>
           <li><a href="#">Conta</a></li>
-          <li><a href="contato.html">Contato</a></li>
+          <li><a href="#">Contato</a></li>
           <li><a href="#">Centro de Ajuda</a></li>
-          <li><a href="#">Teste de Velocidade</a></li>
         </ul>
       </div>
     </div>
     <div>
-      <img src="../image/favicons/senac-logo.jpg" alt="Imagem logotipo da Filmlexi" title="Imagem logotipo da Filmlexi">
+      <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Imagem logotipo do FAVAI-Tech" title="Imagem logotipo do FAVAI-Tech">
     </div>
     <div>
-      <p>2022 - Filmlexi S.A. by <a href="https://jonasmzsouza.github.io/">Alexia Fernanda</a></p>
+      <p>2023 - FAVAI-Tech F.T. by <a href="https://github.com/Alexiafern">Alexia Fernanda</a> e JCMS</p>
       <p>Fotografias sob licença gratuita - fonte: <a href="http://www.pexels.com" target="_blank">pexels.com</a></p>
     </div>
   </footer>

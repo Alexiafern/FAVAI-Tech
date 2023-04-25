@@ -22,7 +22,7 @@
         </script>
         <style>
         nav{
-            background-color: var(--cor1);
+            background-color: #4992610c;
             color: var(--cor5);
             padding: 20px;
             font-size: 18px;
@@ -47,6 +47,12 @@
             margin: auto;
             text-align: center;
         }
+        .espaco{
+            line-height: 1.8;
+        }
+        a{
+            line-height: 1.8;
+        }
         </style>
            <div class="container">
                <div class="col-md-12">
@@ -61,7 +67,7 @@
                             <span class="icon-bar"></span>
                             </button>
                             <a href="index.php" class="link-topo">
-                                <img src="../img/favicon.ico" class="img-responsive logo" alt="">
+                                <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" class="img-responsive logo" alt="">
                             </a>
                         </div>
 
@@ -79,17 +85,15 @@
                                     <a href="meio_ambiente.php">Meio Ambiente</a>
                                 
                             
-                                    <a href="Construindo_e_evoluindo.php">Construindo e Evoluindo</a><br>
-                                    <img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="" width="50px">
+                                    <a href="Construindo_e_evoluindo.php">Construindo e Evoluindo</a>
+                                    <p class="espaco"></p>
                             
                                     
                                         <a href="problemas_ambientais.php">Problemas ambientais</a>
                                         <a href="sobre.php">Sobre o Favai</a>
                                         <a href="cadastrar.php"> Contato</a>
                                     
-                                
-                                
-                                
+                                  
                             </nav>
                         </div>
                       </div>

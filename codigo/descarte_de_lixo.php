@@ -125,11 +125,13 @@
                             </p>
                        </div>
                     </div>
+                    <div>
                     <div class="col-md-12">
                         <p class="text-center direitos">© FAVAI-Tech & JCMS | 2023. Todos os direitos reservados.</p>
                     </div>
                     <div class="col-md-12">
                         <p class="pull-right voltar-topo"><a href="" onclick="topFunction()" id="myBtn">Voltar ao topo</a></p>
+                    </div>
                     </div>
                 </div>
             </div>

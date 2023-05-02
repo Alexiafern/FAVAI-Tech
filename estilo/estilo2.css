@@ -724,7 +724,7 @@ html, body {
     max-width: 378px;
 }
 .contato-texto{
-    color: #2c4d94;
+    color: #ffffff;
     font-family: mregular;
     font-size: 20px;
     margin-top: 70px;
@@ -741,6 +741,7 @@ html, body {
     max-width: 250px;
     position: relative;
     margin: 0 auto;
+    text-align: center;
 }
 .contato-sociais a{
     display: inline-block;
@@ -763,16 +764,19 @@ html, body {
     color: #fff;
 }
 .direitos{
-    color: #2c4d94;
+    color: #ffffff;
     margin-top: 20px;
 }
 .voltar-topo{
     background: #285984;
+    color: rgb(0, 0, 0);
+    background-color: white;
 }
 .voltar-topo a{
-    color: #fff;
+    color: #000000;
     display: inline-block;
     padding: 10px;
+    font-size: large ;
 }
 /*contato*/
 

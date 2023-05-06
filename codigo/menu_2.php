@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -11,35 +12,33 @@
 </head>
 
 <body>
-  <nav class="slide">
-    <input type="radio" name="slideItem" id="item-1" class="toggle" checked />
-    <label for="item-1">
-      <a href="#">
-        <p class="icon">♬</p><span>Home</span>
-      </a>
-    </label>
-    <input type="radio" name="slideItem" id="item-2" class="toggle" />
-    <label for="item-2">
-      <a href="comprar.php">
-        <p class="icon">★</p><span>Comprar</span>
-      </a>
-    </label>
-    <input type="radio" name="slideItem" id="item-3" class="toggle" />
-    <label for="item-3">
-      <a href="doacao.php">
-        <p class="icon">✈</p><span>Doar</span>
-      </a>
-    </label>
-    <input type="radio" name="slideItem" id="item-4" class="toggle" />
-    <label for="item-4">
-      <p class="icon">✎</p><span>Produtos</span>
-    </label>
-    <div class="clear"></div>
-    <div class="slider">
-      <div class="bar"></div>
-    </div>
-  </nav>
+<?php
+$menu_items = array(
+  array('Home', 'index.php'),
+  array('Sobre', 'sobre.php'),
+  array('Serviços', 'servicos.php'),
+  array('Contato', 'contato.php')
+);
+?>
 
+<nav>
+  <div class="logo">
+    <a href="index.php"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Logo"></a>
+  </div>
+  <div class="menu-toggle">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <ul class="menu">
+    <?php foreach ($menu_items as $item) { ?>
+      <li><a href="<?php echo $item[1]; ?>"><?php echo $item[0]; ?></a></li>
+    <?php } ?>
+  </ul>
+</nav>
+
+
+      <script src="script.js"></script>
 </body>
 
 </html>

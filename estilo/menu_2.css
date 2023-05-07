@@ -23,6 +23,10 @@ nav {
 	color: #fff;
 	text-decoration: none;
   }
+  a:hover{
+	color: aqua;
+	text-decoration: none;
+  }
   
   .toggle {
 	display: none;
@@ -56,4 +60,6 @@ nav {
 	  font-size: 1.5em;
 	}
   }
+
+  
   

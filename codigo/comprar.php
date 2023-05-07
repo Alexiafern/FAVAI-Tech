@@ -3,104 +3,65 @@ include("menu_2.php");
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../estilo/comprar.css">
-    <title>Favai</title>
+    <title>Comprar</title>
 </head>
-
 <body>
-    <!--<div class="carousel">
-        <div class="slide">
-            <img src="../img/robozin.jpg" alt="Slide 1" width="1300x600">
-        </div>
-        <div class="slide">
-            <img src="../img/maquina_fotografica.jpg" alt="Slide 2" width="1300x600">
-        </div>
-        <div class="slide">
-            <img src="../img/homen_robo.jpg" alt="Slide 3" width="1300x600">
-        </div>
-    </div>-->
-    <br>
-    <div class="card-container">
+   <br>
+<div class="card-container">
   <div class="card">
-    <img src="../img/not.jpg" alt="Card Image" class="card-img">
-    <div class="card-content">
-      <h3 class="card-title">Card Title</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
-      </a>
+    <img src="../img/not_azul.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>Nome do Produto</h3>
+      <p>Quantidade disponível: 10</p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
     </div>
   </div>
   <div class="card">
-    <img src="../img/mac.jpg" alt="Card Image" class="card-img">
-    <div class="card-content">
-      <h3 class="card-title">Card Title</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
-      </a>
+    <img src="../img/not_azul.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>Nome do Produto</h3>
+      <p>Quantidade disponível: 10</p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
     </div>
   </div>
   <div class="card">
-    <img src="../img/not_azul.jpg" alt="Card Image" class="card-img">
-    <div class="card-content">
-      <h3 class="card-title">Card Title</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
-      </a>
+    <img src="../img/not_azul.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>Nome do Produto</h3>
+      <p>Quantidade disponível: 10</p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
     </div>
   </div>
+  <div class="card">
+    <img src="../img/not_azul.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>Nome do Produto</h3>
+      <p>Quantidade disponível: 10</p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
+    </div>
+  </div>
+
 </div>
-<br>
-<div class="ad-container">
-    <a href="https://example.com" target="_blank">
-      <img src="../img/ad.png" alt="Advertisement" class="ad-image" width="728x90">
-    </a>
-  </div>
-  <br>
 
-  <div class="card-container">
-    <div class="card">
-      <img src="../img/not.jpg" alt="Card Image" class="card-img">
-      <div class="card-content">
-        <h3 class="card-title">Card Title</h3>
-        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
-        </a>
-      </div>
-    </div>
-    <div class="card">
-      <img src="../img/mac.jpg" alt="Card Image" class="card-img">
-      <div class="card-content">
-        <h3 class="card-title">Card Title</h3>
-        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
-        </a>
-      </div>
-    </div>
-    <div class="card">
-      <img src="../img/not_azul.jpg" alt="Card Image" class="card-img">
-      <div class="card-content">
-        <h3 class="card-title">Card Title</h3>
-        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
-        </a>
-      </div>
-    </div>
-  </div>
-
-
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
   <footer>
     <div class="container">
       <div class="row">
@@ -111,9 +72,9 @@ include("menu_2.php");
         <div class="col-lg-4">
           <h3>Contato</h3>
           <ul>
-            <li><a href="#">E-mail</a></li>
-            <li><a href="#">Telefone</a></li>
-            <li><a href="#">Endereço</a></li>
+            <li><a href="mailto:alexiafernanda718@gmail.com?subject=Dúvida sobre o site&body=Olá, gostaria de saber mais sobre o site.">Email</a>
+            </li>
+            <li><a href="https://wa.me/+5543996915903">Telefone</a></li>
           </ul>
         </div>
         <div class="col-lg-4">
@@ -130,10 +91,6 @@ include("menu_2.php");
       <p>&copy; 2023 - Todos os direitos reservados.</p>
     </div>
   </footer>
-  
-  
-
-
+    
 </body>
-
 </html>

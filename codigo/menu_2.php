@@ -15,9 +15,9 @@
 <?php
 $menu_items = array(
   array('Home', 'index.php'),
-  array('Sobre', 'sobre.php'),
-  array('Serviços', 'servicos.php'),
-  array('Contato', 'contato.php')
+  array('Comprar', 'comprar.php'),
+  array('Doar', 'doar.php'),
+  array('Cadastrar', 'cadastrar.php')
 );
 ?>
 

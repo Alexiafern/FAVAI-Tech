@@ -14,17 +14,17 @@ include("menu_2.php");
 </head>
 
 <body>
-    <!--<div class="carousel">
-        <div class="slide">
-            <img src="../img/robozin.jpg" alt="Slide 1" width="1300x600">
+
+    <div class="card-inicio">
+        <img src="https://picsum.photos/800/600" alt="Imagem do card">
+        <div class="card-overlay">
+          <h1>Bem-vindo ao meu site</h1>
+          <p>Este é um lugar para compartilhar minhas ideias e projetos.</p>
+          <a href="#" class="btn">Ver mais</a>
         </div>
-        <div class="slide">
-            <img src="../img/maquina_fotografica.jpg" alt="Slide 2" width="1300x600">
-        </div>
-        <div class="slide">
-            <img src="../img/homen_robo.jpg" alt="Slide 3" width="1300x600">
-        </div>
-    </div>-->
+      </div>
+
+    
     <br>
     <div class="card-container">
   <div class="card">
@@ -98,6 +98,20 @@ include("menu_2.php");
       </div>
     </div>
   </div>
+  <br><br>
+
+  <div class="carousel">
+    <div class="slide">
+        <img src="../img/robozin.jpg" alt="Slide 1" width="1300x600">
+    </div>
+    <div class="slide">
+        <img src="../img/maquina_fotografica.jpg" alt="Slide 2" width="1300x600">
+    </div>
+    <div class="slide">
+        <img src="../img/homen_robo.jpg" alt="Slide 3" width="1300x600">
+    </div>
+</div>
+  
 
 
 <br>
@@ -111,9 +125,9 @@ include("menu_2.php");
         <div class="col-lg-4">
           <h3>Contato</h3>
           <ul>
-            <li><a href="#">E-mail</a></li>
-            <li><a href="#">Telefone</a></li>
-            <li><a href="#">Endereço</a></li>
+            <li><a href="mailto:alexiafernanda718@gmail.com?subject=Dúvida sobre o site&body=Olá, gostaria de saber mais sobre o site.">Email</a>
+            </li>
+            <li><a href="https://wa.me/+5543996915903">Telefone</a></li>
           </ul>
         </div>
         <div class="col-lg-4">

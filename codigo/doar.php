@@ -28,32 +28,32 @@ include("menu_2.php");
     <br>
     <div class="card-container">
   <div class="card">
-    <img src="../img/not.jpg" alt="Card Image" class="card-img">
+    <img src="../img/Apple iMac.jpeg" alt="Card Image" class="card-img">
     <div class="card-content">
-      <h3 class="card-title">Card Title</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3 class="card-title">Apple iMac</h3>
+      <p class="card-text">Resolução de 27 polegadas, processador Intel ou M1, 8GB a 64GB de RAM, SSD de 256GB a 2TB. </p>
       <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
+        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon">
       </a>
     </div>
   </div>
   <div class="card">
-    <img src="../img/mac.jpg" alt="Card Image" class="card-img">
+    <img src="../img/Lenovo ThinkPad X1 Carbon.jpeg" alt="Card Image" class="card-img">
     <div class="card-content">
-      <h3 class="card-title">Card Title</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3 class="card-title">Lenovo ThinkPad X1 Carbon</h3>
+      <p class="card-text">tela de 14 polegadas, processador Intel Core i5, 8GB de RAM, SSD de 256GB.</p>
       <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
+        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon">
       </a>
     </div>
   </div>
   <div class="card">
-    <img src="../img/not_azul.jpg" alt="Card Image" class="card-img">
+    <img src="../img/HP EliteOne 800 G6 All-in-One.jpeg" alt="Card Image" class="card-img">
     <div class="card-content">
-      <h3 class="card-title">Card Title</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3 class="card-title">HP EliteOne 800 G6 All-in-One</h3>
+      <p class="card-text">tela de 23,8 polegadas, processador Intel Core i7, 64GB de RAM, SSD de 2TB.</p>
       <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
+        <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon">
       </a>
     </div>
   </div>
@@ -73,7 +73,7 @@ include("menu_2.php");
         <h3 class="card-title">Card Title</h3>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
+          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon">
         </a>
       </div>
     </div>
@@ -83,7 +83,7 @@ include("menu_2.php");
         <h3 class="card-title">Card Title</h3>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
+          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon">
         </a>
       </div>
     </div>
@@ -93,7 +93,7 @@ include("menu_2.php");
         <h3 class="card-title">Card Title</h3>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <a href="https://wa.me/1234567890?text=Hello%20World" target="_blank" class="card-btn">
-          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon"> Contact via WhatsApp
+          <img src="../img/whats.png" alt="WhatsApp Icon" class="whatsapp-icon">
         </a>
       </div>
     </div>

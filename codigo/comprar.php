@@ -15,10 +15,11 @@ include("menu_2.php");
    <br>
 <div class="card-container">
   <div class="card">
-    <img src="../img/not_azul.jpg" alt="Produto">
+    <img src="../img/Dell Inspiron 15 3000.jpeg" alt="Produto">
     <div class="card-info">
-      <h3>Nome do Produto</h3>
-      <p>Quantidade disponível: 10</p>
+      <h3>Dell Inspiron 15 3000</h3>
+      <p>Quantidade disponível: 05</p> 
+      <p>Preço: R$3.000,00.</p>
       <div class="card-buttons">
         <a href="#" class="btn-comprar">Comprar</a>
         <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
@@ -26,10 +27,12 @@ include("menu_2.php");
     </div>
   </div>
   <div class="card">
-    <img src="../img/not_azul.jpg" alt="Produto">
+    <img src="../img/Apple Mac Mini.jpeg" alt="Produto">
     <div class="card-info">
-      <h3>Nome do Produto</h3>
-      <p>Quantidade disponível: 10</p>
+      <h3>Apple Mac Mini</h3>
+      <p>Quantidade disponível:08</p>
+      <p>Preço: R$6.000,00</p>
+
       <div class="card-buttons">
         <a href="#" class="btn-comprar">Comprar</a>
         <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
@@ -37,10 +40,11 @@ include("menu_2.php");
     </div>
   </div>
   <div class="card">
-    <img src="../img/not_azul.jpg" alt="Produto">
+    <img src="../img/HP Pavilion Gaming Desktop.jpeg" alt="Produto">
     <div class="card-info">
-      <h3>Nome do Produto</h3>
-      <p>Quantidade disponível: 10</p>
+      <h3>HP Pavilion Gaming Desktop</h3>
+      <p>Quantidade disponível: 11</p>
+      <p>Preço: R$5.000,00.</p>
       <div class="card-buttons">
         <a href="#" class="btn-comprar">Comprar</a>
         <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
@@ -48,10 +52,11 @@ include("menu_2.php");
     </div>
   </div>
   <div class="card">
-    <img src="../img/not_azul.jpg" alt="Produto">
+    <img src="../img/Lenovo IdeaPad Flex 5.jpeg" alt="Produto">
     <div class="card-info">
-      <h3>Nome do Produto</h3>
-      <p>Quantidade disponível: 10</p>
+      <h3>Lenovo IdeaPad Flex 5</h3>
+      <p>Quantidade disponível: 06</p>
+      <p>Preço: R$4.000,00.</p>
       <div class="card-buttons">
         <a href="#" class="btn-comprar">Comprar</a>
         <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>

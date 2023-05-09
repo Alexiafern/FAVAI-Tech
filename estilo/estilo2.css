@@ -1330,3 +1330,17 @@ html, body {
 h1{
     color: #f83a00;
 }
+label {
+    display: block;
+    margin-bottom: 30px;
+    width: 500px;
+  }
+  
+  input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 1295px;
+    max-width: 1295px;
+  }
+  

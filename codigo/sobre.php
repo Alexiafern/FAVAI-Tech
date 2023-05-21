@@ -72,12 +72,8 @@
                     <span> Vitoria </span>
                 </div>
                 <div class="box">
-                    <img src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg"/>
+                    <img src="../img/fernanda.jpeg"/>
                     <span> Fernanda </span>
-                </div>
-                <div class="box">
-                    <img src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg"/>
-                    <span> Igor </span>
                 </div>
 
             <h2>Surge um novo mascote</h2>

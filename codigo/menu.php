@@ -90,6 +90,8 @@
                             
                                     
                                         <a href="problemas_ambientais.php">Problemas ambientais</a>
+                                        <a href="comprar.php">Comprar</a>
+                                        <a href="doar.php">Doar</a>
                                         <a href="sobre.php">Sobre o Favai</a>
                                         <a href="cadastrar.php"> Contato</a>
                                     

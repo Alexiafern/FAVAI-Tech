@@ -15,6 +15,7 @@
 <?php
 $menu_items = array(
   array('Home', 'index.php'),
+  array('Brecho', 'brecho.php'),
   array('Comprar', 'comprar.php'),
   array('Doar', 'doar.php'),
   array('Cadastrar', 'cadastrar.php')
@@ -23,7 +24,7 @@ $menu_items = array(
 
 <nav>
   <div class="logo">
-    <a href="index.php"><img src="../img/WhatsApp Image 2023-02-15 at 19.11.47.png" alt="Logo"></a>
+    <a href="index.php"><img src="../img/fundo_comprar.png" alt="Logo"></a>
   </div>
   <div class="menu-toggle">
     <span></span>

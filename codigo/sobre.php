@@ -180,21 +180,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <img src="imgs/thaina.jpg" data-aos="fade-up" class="center-block img-responsive pessoas-videos" alt="" data-toggle="modal" data-target="#video4">
-                            <div class="conheca-videos" data-aos="fade" data-aos-delay="400">
-                                <span>Igor</span>
-                                <div class="vvv">
-                                    <a href="https://www.facebook.com/profile.php?id=100041219442533&mibextid=ZbWKwL
-43 9986-9102" title="Facebook" target="_blank">
-                                        <img src="../img/facebook.png" class="conheca-icones" alt="">
-                                    </a>
-                                    <a href="https://wa.me/+554399869102" title="Whatsapp" target="_blank">
-                                        <img src="../img/whatsb.png" class="conheca-icones" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -280,9 +266,11 @@
                             
                                 Compartilhe:
                         </p>
-                            <br>
-                            <a href="https://wa.me/+5543996915903"><img src="../img/whatsb.png" alt=""> </a>
-                            <a href="https://t.me/yuna_rech"><img src="../img/telegran.png" alt=""></a>
+                        <div class="contato-sociais">
+                            
+                                <a href="https://wa.me/+5543996915903"><img src="../img/whatsb.png" alt="" width="50px"> </a>
+                                <a href="https://t.me/yuna_rech"><img src="../img/telegran.png" alt=""></a>
+                        </div>
                         </p>
                     </div>
                 </div>

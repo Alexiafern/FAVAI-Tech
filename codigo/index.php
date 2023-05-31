@@ -47,7 +47,7 @@
           <li><a href="meio_ambiente.php">O que é o E-lixo?</a></li>
           <li><a href="Construindo_e_evoluindo.php">Construindo e evoluindo</a></li>
           <li><a href="problemas_ambientais.php">Problemas ambientais</a></li>
-          <li><a href="cadastrar.php">cadastro</a></li>
+          <li><a href="comprar.php">comprar</a></li>
           
         </ul>
       </nav>

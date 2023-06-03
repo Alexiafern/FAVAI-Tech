@@ -65,6 +65,60 @@ include("menu_2.php");
   </div>
 
 </div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<div class="card-container">
+  <div class="card">
+    <img src="../img/fone01_brecho.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>Fone bluetooth</h3>
+      <p>Quantidade disponível: 01</p> 
+      <p>Preço: R$60</p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/brecho_impressora01.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>impressora HP</h3>
+      <p>Quantidade disponível:01</p>
+      <p>Preço: R$199</p>
+
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/fone02_brecho.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>JBL Tune 510BT Pure</h3>
+      <p>Quantidade disponível: 01</p>
+      <p>Preço: R$299</p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/carregador01_brecho.jpg" alt="Produto">
+    <div class="card-info">
+      <h3>Carregador turbo 3.0</h3>
+      <p>Quantidade disponível: 01</p>
+      <p>Preço: R$50 </p>
+      <div class="card-buttons">
+        <a href="#" class="btn-comprar">Comprar</a>
+        <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20produto." class="btn-whatsapp"> <img src="../img/whatsb.png" alt=""></a>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 <br><br><br><br><br><br><br><br><br><br><br>
   <footer>
@@ -92,6 +146,7 @@ include("menu_2.php");
         </div>
       </div>
     </div>
+    
     <div class="copy">
       <p>&copy; 2023 - Todos os direitos reservados.</p>
     </div>
